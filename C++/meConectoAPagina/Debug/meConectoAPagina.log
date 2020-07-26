@@ -1,0 +1,48 @@
+﻿Build started 04/01/2015 20:01:25.
+     1>Project "C:\Users\Ariel\Documents\Visual Studio 2010\Projects\meConectoAPagina\meConectoAPagina\meConectoAPagina.vcxproj" on node 2 (rebuild target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\meConectoAPagina.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt auxiliares.cpp Cartera.cpp Dolares.cpp main.cpp titulo.cpp
+         titulo.cpp
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+         main.cpp
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+         Dolares.cpp
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+         Cartera.cpp
+         auxiliares.cpp
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+         Generating Code...
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Ariel\Documents\Visual Studio 2010\Projects\meConectoAPagina\Debug\meConectoAPagina.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\meConectoAPagina.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Ariel\Documents\Visual Studio 2010\Projects\meConectoAPagina\Debug\meConectoAPagina.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Ariel\Documents\Visual Studio 2010\Projects\meConectoAPagina\Debug\meConectoAPagina.lib" /MACHINE:X86 Debug\auxiliares.obj
+         Debug\Cartera.obj
+         Debug\Dolares.obj
+         Debug\main.obj
+         Debug\titulo.obj
+         meConectoAPagina.vcxproj -> C:\Users\Ariel\Documents\Visual Studio 2010\Projects\meConectoAPagina\Debug\meConectoAPagina.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Ariel\Documents\Visual Studio 2010\Projects\meConectoAPagina\Debug\meConectoAPagina.exe;#1" /manifest Debug\meConectoAPagina.exe.intermediate.manifest
+       PostBuildEvent:
+         copy /y "C:\Users\Ariel\Documents\Visual Studio 2010\Projects\meConectoAPagina\Debug\" "c:/parserWeb"
+         copy /y "C:\Users\Ariel\Documents\Visual Studio 2010\Projects\meConectoAPagina\Debug\/python" "c:/parserWeb/python"
+         :VCEnd
+         C:\Users\Ariel\Documents\Visual Studio 2010\Projects\meConectoAPagina\Debug\meConectoAPagina.exe
+         C:\Users\Ariel\Documents\Visual Studio 2010\Projects\meConectoAPagina\Debug\meConectoAPagina.ilk
+         C:\Users\Ariel\Documents\Visual Studio 2010\Projects\meConectoAPagina\Debug\meConectoAPagina.pdb
+                 3 archivo(s) copiado(s).
+         C:\Users\Ariel\Documents\Visual Studio 2010\Projects\meConectoAPagina\Debug\/python\buscarAdr.exe
+         C:\Users\Ariel\Documents\Visual Studio 2010\Projects\meConectoAPagina\Debug\/python\getWeb.exe
+         C:\Users\Ariel\Documents\Visual Studio 2010\Projects\meConectoAPagina\Debug\/python\initWeb.exe
+         C:\Users\Ariel\Documents\Visual Studio 2010\Projects\meConectoAPagina\Debug\/python\library.zip
+         C:\Users\Ariel\Documents\Visual Studio 2010\Projects\meConectoAPagina\Debug\/python\python27.dll
+         C:\Users\Ariel\Documents\Visual Studio 2010\Projects\meConectoAPagina\Debug\/python\_socket.pyd
+                 6 archivo(s) copiado(s).
+       FinalizeBuildStatus:
+         Deleting file "Debug\meConectoAPagina.unsuccessfulbuild".
+         Touching "Debug\meConectoAPagina.lastbuildstate".
+     1>Done Building Project "C:\Users\Ariel\Documents\Visual Studio 2010\Projects\meConectoAPagina\meConectoAPagina\meConectoAPagina.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:08.16

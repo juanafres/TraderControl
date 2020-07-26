@@ -1,0 +1,885 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>RavaOnline.com - Bonos</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="-1">
+<script type="text/javascript" src="/v2/js/browser.js"></script>
+<script type="text/javascript" src="/v2/js/menu.js"></script>
+<script type="text/javascript" src="/v2/js/carouFredSel/jquery-1.8.2.min.js"></script>
+<script type="text/javascript" src="/v2/js/carouFredSel/jquery.carouFredSel-6.2.1-packed.js"></script>
+<script type="text/javascript" src="/v2/js/s3Slider.js"></script>
+<link rel="stylesheet" href="/v2/js/s3Slider.css" type="text/css" media="screen" charset="utf-8" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="title" content="Rava Sociedad de Bolsa - RavaOnline.com" />
+<META NAME="keywords" CONTENT="rava,ravaonline,bolsa,sociedad,acciones,bonos,merval,internet,operar,online,indice">
+<META NAME="description" CONTENT="Informaci&oacute;n y asesoramiento personalizado para operar en los mercados locales e internacionales. M&aacute;s de 50 a&ntilde;os de trayectoria.">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"> 
+<script type="text/javascript" src="/v2/lib/autosuggest/js/bsn.AutoSuggest_c_2.0.js"></script>
+<link rel="stylesheet" href="/v2/lib/autosuggest/css/autosuggest_inquisitor.css" type="text/css" media="screen" charset="utf-8" />
+<link rel="alternate" type="application/rss+xml" title="RavaOnline.com - Rava Sociedad de Bolsa" href="/v2/rss.php">
+
+<link href="https://plus.google.com/112202673985538533092" rel="publisher">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:site" content="@ravaonline"/>
+<meta name="twitter:url" content="http://www.ravaonline.com" />
+<meta name="twitter:title" content="Rava Sociedad de Bolsa - RavaOnline.com" />
+<meta name="twitter:description" content="Informaci&oacute;n y asesoramiento personalizado para operar en los mercados locales e internacionales. M&aacute;s de 50 aÃ±os de trayectoria."/>
+<meta name="twitter:image" content="http://www.ravaonline.com/v2/imagenes/logocuadrado.jpg"/>
+
+
+<script type="text/javascript" language="javascript">
+
+$(function() {
+
+$("#carousel_top").carouFredSel({
+	    circular: true,
+	    infinite: true,
+        direction: "up", 
+	    
+	    auto : {
+	        timeoutDuration: 8000,
+	        pauseOnHover: true
+	    }
+	});
+	
+	
+});
+
+function clicktop1() {
+window.location.href = 'http://ravaonline.com/v2/registracion/index.php?tipo=plataforma';
+}
+function clicktop2() {
+window.location.href = 'http://www.facebook.com/pages/Rava-Sociedad-de-Bolsa-RavaOnlinecom/124015848571';
+}
+function clicktop3() {
+window.location.href = 'http://ravaonline.com/v2/registracion/index.php?tipo=plataforma';
+}
+
+</script>
+<link rel=stylesheet href="/v2/templates/global.css" type="text/css">
+<link rel=stylesheet href="/v2/templates/precios.css" type="text/css">
+</head>
+
+<body onload="if ( typeof doLoad == 'function' ) { doLoad(); }" topmargin="0" marginwidth="0" marginheight="0">
+<table width="100%"  border="0" cellspacing="0" cellpadding="0">
+	<tr>
+    	<td align="center">
+			<!-- Comienzo Tabla Header -->
+			<table width="960"  border="0" cellspacing="0" cellpadding="0" style="background-image:url('/v2/imagenes/bgmoneda.gif')">
+
+				<tr>
+					<td width="5"></td> 
+					<td  height="64" align="left" valign="middle"><a href="/v2/" ><img src="/v2/imagenes/logorava.png" border="0" alt="RavaOnline.com"></a></td>
+          <td  height="64" width="468" align="right" valign="middle">
+            
+<style type="text/css" media="all">
+.list_carousel {
+	position: relative;
+border: 1px solid #ccc;
+  /*border: solid 1px red;*/
+}
+.image_carousel {
+	padding: 0px;
+	margin: 0px;
+	position: relative;
+
+        cursor: pointer;
+}
+.image_carousel img {
+	
+	background-color: white;
+	padding: 0px;
+	margin: 0px;
+	display: block;
+	float: right;
+       cursor: pointer;
+}
+
+.clearfix {
+	float: none;
+	clear: both;
+}
+
+</style>
+
+<div class="list_carousel" >
+  <div id="carousel_top">
+
+    <img src="/v2/imagenes/s3_banner1.png" width="468" height="60" onclick="clicktop1()" />
+    <img src="/v2/imagenes/s3_banner2.png" width="468" height="60" onclick="clicktop2()" />
+    <img src="/v2/imagenes/s3_banner3.png" width="468" height="60" onclick="clicktop3()" />
+ 
+ </div>
+<div class="clearfix"></div>
+  
+</div>
+
+          </td>
+		  	</tr>
+       </table>
+       <!-- Fin Tabla Header -->
+		</td>
+	</tr>
+	<tr>
+   	<td  align="center" class="menuclass">
+			<table width="960" cellpadding="0" cellspacing="0">
+				<tr height="24" valign="middle">
+					<td width="20">&nbsp;</td>
+					<td>
+            <a href="/v2/">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="/v2/pantalla.php?id=apertura">¿Cómo abrir una cuenta?</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="/v2/pantalla.php?id=11">¿Qué ofrecemos?</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="/v2/pantalla.php?id=7">Cuentas administradas</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="/v2/registrar.php">Regístrese gratis</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="/v2/consultenos.php">Consúltenos</a>
+					</td>
+					<td align="right"><a href="/v2/clientes/">Acceso clientes</a></td>
+					<td width="20">&nbsp;</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+	 <td align="center" class="tickertabla" > 
+	  <table width="960" cellpadding="0" cellspacing="0" > 
+	   <tr >
+      <td valign="middle" width="65%" align="left"><IFRAME id="iframe" style="visibility: hidden; LEFT: 0px; POSITION: absolute; TOP: 0px; z-index:98" src="/v2/templates/0.html" frameBorder="0" scrolling="no"></IFRAME><div class=sample1><div class=horz_menu><a id="precios" href="/v2/precios/panel.php?m=LID">Precios</a><a id="empresas" href="/v2/empresas/perfil.php">Empresas</a><a id="bonos" href="/v2/empresas/bonos.php">Bonos</a><a id="mapa" href="http://ravaonline.com/v2/empresas/mapa.php">Mapa del mercado</a><a id="foro" href="http://foro.ravaonline.com">Foro Bursátil</a></div><script type="text/javascript">var submenu_bonos = { "Análisis" : "/v2/empresas/bonos.php","Calendario de pagos" : "/v2/empresas/calendario.php","Precios" : "/v2/precios/panel.php?m=BON"};var submenu_empresas = { "Balances: Local" : "/v2/empresas/cresult.php","Balances: Global" : "/v2/empresas/cresult.php?m=eeuu","Indicadores Online" : "/v2/empresas/indicadores.php","Notas de empresas" : "/v2/research/info.php?tipo=nota","Proyección Merval" : "/v2/contenidos/ProyMerval.pdf"};var submenu_precios = { "Panel Líder" : "/v2/precios/panel.php?m=LID","Panel General" : "/v2/precios/panel.php?m=GEN","Opciones" : "/v2/precios/panel.php?m=OPC","Totales Negociados" : "/v2/precios/panel.php?m=TOT","Bonos" : "/v2/precios/panel.php?m=BON","Cedears" : "/v2/precios/panel.php?m=CED","ADR's Argentinos" : "/v2/precios/panel.php?m=ADRARG","Global: Principal" : "/v2/precios/panel.php?m=GLOBAL","Las 30 del Dow" : "/v2/precios/panel.php?m=DOW30","Global: ETF's" : "/v2/precios/panel.php?m=ETF","Global: Varias" : "/v2/precios/panel.php?m=VARIAS"};var menu = { "bonos" : submenu_bonos ,"empresas" : submenu_empresas ,"precios" : submenu_precios };dhtmlmenu_build(menu);</script></div>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/v2/rss.php"><img src="/v2/imagenes/rss16.gif" border="0"></a>
+      &nbsp;<a href="http://www.facebook.com/pages/Rava-Sociedad-de-Bolsa-RavaOnlinecom/124015848571"><img src="/v2/imagenes/facebook16.gif" border="0"></a>
+      &nbsp;<a href="http://www.twitter.com/ravaonline"><img src="/v2/imagenes/twitter16.gif" border="0"></a>
+      &nbsp;<a href="http://www.google.com/+ravaonline"><img src="/v2/imagenes/google16.gif" border="0"></a>
+      </td>
+      <form method="GET" action="/v2/empresas/perfil.php">
+      <td valign="middle" width="35%"  align="right">
+        <!-- Ticker -->
+        <input id="ticker" type="text" name="e"  value="Buscar empresa, ETF o bono" style="font-style:italic; color:#555" onfocus="document.getElementById('ticker').value = ''" size="40"  class="tickerselect">&nbsp;&nbsp;<input type="image" src="/v2/imagenes/lupaclara.png" value="Ver" onclick="submit();" class="tickerbutton"> 
+        <!-- /Ticker -->
+      </td>
+      <td width="20">&nbsp;</td>
+      </form>
+	   </tr>
+	  </table>
+   </td>
+      <script type="text/javascript">
+        var options_xml = {
+          script:"/v2/empresas/as_data.php?",
+          varname:"input"
+        };
+        var as_xml = new AutoSuggest('ticker', options_xml);
+      </script>
+	</tr>
+
+</table>
+
+
+<div class="container960" align="left">
+<!-- Comienzo Tabla Principal (778) -->
+<table width="960" border="0" cellspacing="0" cellpadding="0" class="tabla960">
+	<tr>
+		<td valign="top" height="400" class="tablamedia">
+	    <!-- Comienzo Tabla Media Principal -->
+			<table width="100%" cellpadding="0" cellspacing="0">
+				<tr>
+				
+<p align="center"><table align="center" width="99%"><tr><td align="center"><br>
+<table width=100%>
+  <tr >
+    <td width="20%"></td>
+    <td width="60%" align=center>
+      <span style="font-size:24px;font-weight:bold;font-family:'Trebuchet MS',Tahoma,Arial">Análisis de Títulos Públicos</span>
+      <br><br>
+    </td>
+    <td width="20%" align=right><input type="button" value="Calendario de pagos" onclick="window.location='/v2/empresas/calendario.php'">
+    </td>
+  </tr>
+</table>
+<table width=100%>
+  <tr >
+    <td colspan=2 style="background-color:#e5e5e5; border: solid 1px #ccc">
+      <table width=100% height=50 cellpadding=10>
+        <tr>
+          <td align=left><form action="bonos.php"><b>Tipo de cambio implícito para cálculo de TIR</b></td>
+          <td align=right>Bonos dollar-linked: <input size=3 type="text" name="dolar_dl" value="8.446">&nbsp;&nbsp; Bonos Ley argentina: <input size=3 type="text" name="dolar_arg" value="13.99">&nbsp;&nbsp; Bonos Ley extranjera: <input size=3 type="text" name="dolar_ny" value="14.97">&nbsp;&nbsp; <input type=submit value="Recalcular TIR"></form></td>
+        </tr>
+      </table>
+    </td>
+  <tr>
+    <td valign=top width=50%><br>
+      <table width=100%>
+        <tr>
+          <td><table cellpadding="0" width="100%" border="0" cellspacing="0"><tr><td>
+<table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
+	<tr class="celdapanel">
+		<td class="titulomodulo"><a style="text-decoration: none;color:#ffffff" name="p_Dollar Linked">Dollar Linked</a></td>
+	</tr>
+	<tr>
+		<td>
+<table style="border:dotted 1px #cccccc;border-top:0px;font-size:11px;" cellpadding="5" width="100%" align="center" cellspacing="0" border="0">
+	<tr style="padding: 5px;color:#000040;font-weight: bold;font-size: 10px;" align="right">
+		<td style="text-align: left; white-space:nowrap; width: 40px">Especie</td>
+		<td style="text-align: left;  white-space:nowrap; width: 180px">Nombre</td>
+		<td style="text-align: right; white-space:nowrap">Precio</td>
+		<td style="text-align: right; white-space:nowrap">% Año</td>
+		<td style="text-align: right; white-space:nowrap">TIR</td>
+		<td style="text-align: right; white-space:nowrap; width: 50px">Emisor</td>
+		<td style="text-align: right; white-space:nowrap">Ley</td>
+	</tr>
+	<tr style="font-size:11px; padding: 0px 4px;background-color: #e4e5ed;text-align: right; ">
+		<td align="left"><b><a href="/v2/empresas/perfil.php?e=BD2C9">BD2C9</a></b></td>
+		<td align="left">Ciudad de Bs. As. 2019 Clase 5</td>
+		<td>905,00</td>
+		<td><span style="color:darkgreen">34,1</span></td>
+		<td style="white-space:nowrap;">0,3%</td>
+		<td>C.A.B.A.</td>
+		<td>Arg.</td>
+	</tr>
+	<tr style="font-size:11px; padding: 0px 4px;background-color: #f5f5f5;text-align: right;">
+		<td align="left"><b><a href="/v2/empresas/perfil.php?e=BDC18">BDC18</a></b></td>
+		<td align="left">Ciudad de Bs. As. 2018 Clase 3</td>
+		<td>975,00</td>
+		<td><span style="color:darkgreen">46,2</span></td>
+		<td style="white-space:nowrap;">-1,5%</td>
+		<td>C.A.B.A.</td>
+		<td>Arg.</td>
+	</tr>
+	<tr style="font-size:11px; padding: 0px 4px;background-color: #e4e5ed;text-align: right; ">
+		<td align="left"><b><a href="/v2/empresas/perfil.php?e=BDC19">BDC19</a></b></td>
+		<td align="left">Ciudad de Bs. As. 2019 Clase 4</td>
+		<td>960,00</td>
+		<td><span style="color:darkgreen">39,1</span></td>
+		<td style="white-space:nowrap;">0,3%</td>
+		<td>C.A.B.A.</td>
+		<td>Arg.</td>
+	</tr>
+	<tr style="font-size:11px; padding: 0px 4px;background-color: #f5f5f5;text-align: right;">
+		<td align="left"><b><a href="/v2/empresas/perfil.php?e=BDC20">BDC20</a></b></td>
+		<td align="left">Ciudad de Bs. As. 2020 Clase 6</td>
+		<td>925,00</td>
+		<td><span style="color:darkgreen">51,6</span></td>
+		<td style="white-space:nowrap;">-0,3%</td>
+		<td>C.A.B.A.</td>
+		<td>Arg.</td>
+	</tr>
+	<tr style="font-size:11px; padding: 0px 4px;background-color: #e4e5ed;text-align: right; ">
+		<td align="left"><b><a href="/v2/empresas/perfil.php?e=CO17">CO17</a></b></td>
+		<td align="left">BonCor 2017</td>
+		<td>425,00</td>
+		<td><span style="color:black">0,0</span></td>
+		<td style="white-space:nowrap;">-4,0%</td>
+		<td>Córdoba</td>
+		<td>Arg.</td>
+	</tr>
+	<tr style="font-size:11px; padding: 0px 4px;background-color: #f5f5f5;text-align: right;">
+		<td align="left"><b><a href="/v2/empresas/perfil.php?e=ERG16">ERG16</a></b></td>
+		<td align="left">Entre Ríos 2016 Serie 1</td>
+		<td>800,00</td>
+		<td><span style="color:darkgreen">11,1</span></td>
+		<td style="white-space:nowrap;">-1,0%</td>
+		<td>Entre Ríos</td>
+		<td>Arg.</td>
+	</tr>
+	<tr style="font-size:11px; padding: 0px 4px;background-color: #e4e5ed;text-align: right; ">
+		<td align="left"><b><a href="/v2/empresas/perfil.php?e=FORM3">FORM3</a></b></td>
+		<td align="left">Formosa 2022</td>
+		<td>700,00</td>
+		<td><span style="color:darkgreen">26,1</span></td>
+		<td style="white-space:nowrap;">5,5%</td>
+		<td>Formosa</td>
+		<td>Arg.</td>
+	</tr>
+	<tr style="font-size:11px; padding: 0px 4px;background-color: #f5f5f5;text-align: right;">
+		<td align="left"><b><a href="/v2/empresas/perfil.php?e=NDG1">NDG1</a></b></td>
+		<td align="left">Neuquén 2016</td>
+		<td>800,00</td>
+		<td><span style="color:darkgreen">15,3</span></td>
+		<td style="white-space:nowrap;">-16,3%</td>
+		<td>Neuquén</td>
+		<td>Arg.</td>
+	</tr>
+	<tr style="font-size:11px; padding: 0px 4px;background-color: #e4e5ed;text-align: right; ">
+		<td align="left"><b><a href="/v2/empresas/perfil.php?e=PBF15">PBF15</a></b></td>
+		<td align="left">Buenos Aires 2015 4.24%</td>
+		<td>901,00</td>
+		<td><span style="color:darkgreen">23,4</span></td>
+		<td style="white-space:nowrap;">-12,0%</td>
+		<td>Bs. As.</td>
+		<td>Arg.</td>
+	</tr>
+	<tr style="font-size:11px; padding: 0px 4px;background-color: #f5f5f5;text-align: right;">
+		<td align="left"><b><a href="/v2/empresas/perfil.php?e=PMD18">PMD18</a></b></td>
+		<td align="left">Mendoza 2018 Clase 3</td>
+		<td>850,00</td>
+		<td><span style="color:darkgreen">29,8</span></td>
+		<td style="white-space:nowrap;">2,5%</td>
+		<td>Mendoza</td>
+		<td>Arg.</td>
+	</tr>
+	<tr style="font-size:11px; padding: 0px 4px;background-color: #e4e5ed;text-align: right; ">
+		<td align="left"><b><a href="/v2/empresas/perfil.php?e=PMO18">PMO18</a></b></td>
+		<td align="left">Mendoza 2018 Clase 2</td>
+		<td>865,00</td>
+		<td><span style="color:darkgreen">31,1</span></td>
+		<td style="white-space:nowrap;">1,8%</td>
+		<td>Mendoza</td>
+		<td>Arg.</td>
+	</tr>
+	<tr style="font-size:11px; padding: 0px 4px;background-color: #f5f5f5;text-align: right;">
+		<td align="left"><b><a href="/v2/empresas/perfil.php?e=PMY16">PMY16</a></b></td>
+		<td align="left">Mendoza 2016</td>
+		<td>720,00</td>
+		<td><span style="color:darkgreen">4,3</span></td>
+		<td style="white-space:nowrap;">-6,7%</td>
+		<td>Mendoza</td>
+		<td>Arg.</td>
+	</tr>
+	<tr style="font-size:11px; padding: 0px 4px;background-color: #e4e5ed;text-align: right; ">
+		<td align="left"><b><a href="/v2/empresas/perfil.php?e=PUO19">PUO19</a></b></td>
+		<td align="left">Chubut 2019</td>
+		<td>960,00</td>
+		<td><span style="color:darkgreen">41,2</span></td>
+		<td style="white-space:nowrap;">-0,0%</td>
+		<td>Chubut</td>
+		<td>Arg.</td>
+	</tr>
+</table>
+</td>
+	</tr>
+</table>
+</td></tr></table><br><table cellpadding="0" width="100%" border="0" cellspacing="0"><tr><td>
+<table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
+	<tr class="celdapanel">
+		<td class="titulomodulo"><a style="text-decoration: none;color:#ffffff" name="p_Pesos: con ajuste por CER">Pesos: con ajuste por CER</a></td>
+	</tr>
+	<tr>
+		<td>
+<table style="border:dotted 1px #cccccc;border-top:0px;font-size:11px;" cellpadding="5" width="100%" align="center" cellspacing="0" border="0">
+	<tr style="padding: 5px;color:#000040;font-weight: bold;font-size: 10px;" align="right">
+		<td style="text-align: left; white-space:nowrap; width: 40px">Especie</td>
+		<td style="text-align: left;  white-space:nowrap; width: 180px">Nombre</td>
+		<td style="text-align: right; white-space:nowrap">Precio</td>
+		<td style="text-align: right; white-space:nowrap">% Año</td>
+		<td style="text-align: right; white-space:nowrap">TIR</td>
+		<td style="text-align: right; white-space:nowrap; width: 50px">Emisor</td>
+		<td style="text-align: right; white-space:nowrap">Ley</td>
+	</tr>
+	<tr style="font-size:11px; padding: 0px 4px;background-color: #e4e5ed;text-align: right; ">
+		<td align="left"><b><a href="/v2/empresas/perfil.php?e=CUAP">CUAP</a></b></td>
+		<td align="left">CUASIPAR en $</td>
+		<td>154,50</td>
+		<td><span style="color:darkgreen">17,9</span></td>
+		<td style="white-space:nowrap;">10,5%</td>
+		<td>Rep. Arg.</td>
+		<td>Arg.</td>
+	</tr>
+	<tr style="font-size:11px; padding: 0px 4px;background-color: #f5f5f5;text-align: right;">
+		<td align="left"><b><a href="/v2/empresas/perfil.php?e=DICP">DICP</a></b></td>
+		<td align="left">Discount $ Ley Arg.</td>
+		<td>248,00</td>
+		<td><span style="color:darkgreen">28,5</span></td>
+		<td style="white-space:nowrap;">10,9%</td>
+		<td>Rep. Arg.</td>
+		<td>Arg.</td>
+	</tr>
+	<tr style="font-size:11px; padding: 0px 4px;background-color: #e4e5ed;text-align: right; ">
+		<td align="left"><b><a href="/v2/empresas/perfil.php?e=DIP0">DIP0</a></b></td>
+		<td align="left">Discount $ Ley Arg. Canje 2010</td>
+		<td>238,00</td>
+		<td><span style="color:darkgreen">22,1</span></td>
+		<td style="white-space:nowrap;">11,4%</td>
+		<td>Rep. Arg.</td>
+		<td>Arg.</td>
+	</tr>
+	<tr style="font-size:11px; padding: 0px 4px;background-color: #f5f5f5;text-align: right;">
+		<td align="left"><b><a href="/v2/empresas/perfil.php?e=NF18">NF18</a></b></td>
+		<td align="left">BOGAR 2018</td>
+		<td>147,25</td>
+		<td><span style="color:darkgreen">8,3</span></td>
+		<td style="white-space:nowrap;">10,7%</td>
+		<td>Rep. Arg.</td>
+		<td>Arg.</td>
+	</tr>
+	<tr style="font-size:11px; padding: 0px 4px;background-color: #e4e5ed;text-align: right; ">
+		<td align="left"><b><a href="/v2/empresas/perfil.php?e=NO20">NO20</a></b></td>
+		<td align="left">BOGAR 2020</td>
+		<td>200,00</td>
+		<td><span style="color:darkgreen">25,0</span></td>
+		<td style="white-space:nowrap;">14,1%</td>
+		<td>Rep. Arg.</td>
+		<td>Arg.</td>
+	</tr>
+	<tr style="font-size:11px; padding: 0px 4px;background-color: #f5f5f5;text-align: right;">
+		<td align="left"><b><a href="/v2/empresas/perfil.php?e=PAP0">PAP0</a></b></td>
+		<td align="left">Par $ Ley Arg. Canje 2010</td>
+		<td>84,00</td>
+		<td><span style="color:darkgreen">44,8</span></td>
+		<td style="white-space:nowrap;">10,4%</td>
+		<td>Rep. Arg.</td>
+		<td>Arg.</td>
+	</tr>
+	<tr style="font-size:11px; padding: 0px 4px;background-color: #e4e5ed;text-align: right; ">
+		<td align="left"><b><a href="/v2/empresas/perfil.php?e=PARP">PARP</a></b></td>
+		<td align="left">Par $ Ley Arg.</td>
+		<td>91,00</td>
+		<td><span style="color:darkgreen">21,3</span></td>
+		<td style="white-space:nowrap;">9,6%</td>
+		<td>Rep. Arg.</td>
+		<td>Arg.</td>
+	</tr>
+	<tr style="font-size:11px; padding: 0px 4px;background-color: #f5f5f5;text-align: right;">
+		<td align="left"><b><a href="/v2/empresas/perfil.php?e=PR12">PR12</a></b></td>
+		<td align="left">Consolidación Serie 4</td>
+		<td>51,50</td>
+		<td><span style="color:red">-23,1</span></td>
+		<td style="white-space:nowrap;">10,2%</td>
+		<td>Rep. Arg.</td>
+		<td>Arg.</td>
+	</tr>
+	<tr style="font-size:11px; padding: 0px 4px;background-color: #e4e5ed;text-align: right; ">
+		<td align="left"><b><a href="/v2/empresas/perfil.php?e=PR13">PR13</a></b></td>
+		<td align="left">Consolidación Serie 6</td>
+		<td>236,50</td>
+		<td><span style="color:darkgreen">24,5</span></td>
+		<td style="white-space:nowrap;">10,9%</td>
+		<td>Rep. Arg.</td>
+		<td>Arg.</td>
+	</tr>
+	<tr style="font-size:11px; padding: 0px 4px;background-color: #f5f5f5;text-align: right;">
+		<td align="left"><b><a href="/v2/empresas/perfil.php?e=RNG21">RNG21</a></b></td>
+		<td align="left">Río Negro Bogar 2</td>
+		<td>382,00</td>
+		<td><span style="color:darkgreen">3,2</span></td>
+		<td style="white-space:nowrap;">8,6%</td>
+		<td>Río Negro</td>
+		<td>Arg.</td>
+	</tr>
+	<tr style="font-size:11px; padding: 0px 4px;background-color: #e4e5ed;text-align: right; ">
+		<td align="left"><b><a href="/v2/empresas/perfil.php?e=RS14">RS14</a></b></td>
+		<td align="left">BODEN 2014</td>
+		<td>34,00</td>
+		<td><span style="color:red">-38,5</span></td>
+		<td style="white-space:nowrap;">--</td>
+		<td>Rep. Arg.</td>
+		<td>Arg.</td>
+	</tr>
+	<tr style="font-size:11px; padding: 0px 4px;background-color: #f5f5f5;text-align: right;">
+		<td align="left"><b><a href="/v2/empresas/perfil.php?e=TUCS1">TUCS1</a></b></td>
+		<td align="left">Tucumán Consadep Serie 1</td>
+		<td>156,00</td>
+		<td><span style="color:darkgreen">17,3</span></td>
+		<td style="white-space:nowrap;">8,8%</td>
+		<td>Tucumán</td>
+		<td>Arg.</td>
+	</tr>
+</table>
+</td>
+	</tr>
+</table>
+</td></tr></table><br><table cellpadding="0" width="100%" border="0" cellspacing="0"><tr><td>
+<table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
+	<tr class="celdapanel">
+		<td class="titulomodulo"><a style="text-decoration: none;color:#ffffff" name="p_Pesos: Tasa Badlar">Pesos: Tasa Badlar</a></td>
+	</tr>
+	<tr>
+		<td>
+<table style="border:dotted 1px #cccccc;border-top:0px;font-size:11px;" cellpadding="5" width="100%" align="center" cellspacing="0" border="0">
+	<tr style="padding: 5px;color:#000040;font-weight: bold;font-size: 10px;" align="right">
+		<td style="text-align: left; white-space:nowrap; width: 40px">Especie</td>
+		<td style="text-align: left;  white-space:nowrap; width: 180px">Nombre</td>
+		<td style="text-align: right; white-space:nowrap">Precio</td>
+		<td style="text-align: right; white-space:nowrap">% Año</td>
+		<td style="text-align: right; white-space:nowrap">TIR</td>
+		<td style="text-align: right; white-space:nowrap; width: 50px">Emisor</td>
+		<td style="text-align: right; white-space:nowrap">Ley</td>
+	</tr>
+	<tr style="font-size:11px; padding: 0px 4px;background-color: #e4e5ed;text-align: right; ">
+		<td align="left"><b><a href="/v2/empresas/perfil.php?e=AS15">AS15</a></b></td>
+		<td align="left">BONAR 2015</td>
+		<td>41,50</td>
+		<td><span style="color:red">-51,0</span></td>
+		<td style="white-space:nowrap;">27,2%</td>
+		<td>Rep. Arg.</td>
+		<td>Arg.</td>
+	</tr>
+	<tr style="font-size:11px; padding: 0px 4px;background-color: #f5f5f5;text-align: right;">
+		<td align="left"><b><a href="/v2/empresas/perfil.php?e=PR14">PR14</a></b></td>
+		<td align="left">Consolidación Serie 7</td>
+		<td>95,85</td>
+		<td><span style="color:red">-0,7</span></td>
+		<td style="white-space:nowrap;">28,3%</td>
+		<td>Rep. Arg.</td>
+		<td>Arg.</td>
+	</tr>
+	<tr style="font-size:11px; padding: 0px 4px;background-color: #e4e5ed;text-align: right; ">
+		<td align="left"><b><a href="/v2/empresas/perfil.php?e=PR15">PR15</a></b></td>
+		<td align="left">Consolidación Serie 8</td>
+		<td>146,00</td>
+		<td><span style="color:black">0,0</span></td>
+		<td style="white-space:nowrap;">28,4%</td>
+		<td>Rep. Arg.</td>
+		<td>Arg.</td>
+	</tr>
+</table>
+</td>
+	</tr>
+</table>
+</td></tr></table><br></td>
+        </tr>
+      </table>
+    </td>
+    <td valign=top width=50%><br>
+      <table width=100%>
+        <tr>
+          <td><table cellpadding="0" width="100%" border="0" cellspacing="0"><tr><td>
+<table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
+	<tr class="celdapanel">
+		<td class="titulomodulo"><a style="text-decoration: none;color:#ffffff" name="p_Dolares: Tasa Fija">Dolares: Tasa Fija</a></td>
+	</tr>
+	<tr>
+		<td>
+<table style="border:dotted 1px #cccccc;border-top:0px;font-size:11px;" cellpadding="5" width="100%" align="center" cellspacing="0" border="0">
+	<tr style="padding: 5px;color:#000040;font-weight: bold;font-size: 10px;" align="right">
+		<td style="text-align: left; white-space:nowrap; width: 40px">Especie</td>
+		<td style="text-align: left;  white-space:nowrap; width: 180px">Nombre</td>
+		<td style="text-align: right; white-space:nowrap">Precio</td>
+		<td style="text-align: right; white-space:nowrap">% Año</td>
+		<td style="text-align: right; white-space:nowrap">TIR</td>
+		<td style="text-align: right; white-space:nowrap; width: 50px">Emisor</td>
+		<td style="text-align: right; white-space:nowrap">Ley</td>
+	</tr>
+	<tr style="font-size:11px; padding: 0px 4px;background-color: #e4e5ed;text-align: right; ">
+		<td align="left"><b><a href="/v2/empresas/perfil.php?e=AA17">AA17</a></b></td>
+		<td align="left">BONAR X</td>
+		<td>1.245,00</td>
+		<td><span style="color:darkgreen">56,8</span></td>
+		<td style="white-space:nowrap;">14,4%</td>
+		<td>Rep. Arg.</td>
+		<td>Arg.</td>
+	</tr>
+	<tr style="font-size:11px; padding: 0px 4px;background-color: #f5f5f5;text-align: right;">
+		<td align="left"><b><a href="/v2/empresas/perfil.php?e=AN18">AN18</a></b></td>
+		<td align="left">Bonar 2018</td>
+		<td>1.410,00</td>
+		<td><span style="color:darkgreen">66,7</span></td>
+		<td style="white-space:nowrap;">10,0%</td>
+		<td>Rep. Arg.</td>
+		<td>Arg.</td>
+	</tr>
+	<tr style="font-size:11px; padding: 0px 4px;background-color: #e4e5ed;text-align: right; ">
+		<td align="left"><b><a href="/v2/empresas/perfil.php?e=AY24">AY24</a></b></td>
+		<td align="left">BONAR 2024</td>
+		<td>1.254,00</td>
+		<td><span style="color:darkgreen">42,5</span></td>
+		<td style="white-space:nowrap;">12,1%</td>
+		<td>Rep. Arg.</td>
+		<td>Arg.</td>
+	</tr>
+	<tr style="font-size:11px; padding: 0px 4px;background-color: #f5f5f5;text-align: right;">
+		<td align="left"><b><a href="/v2/empresas/perfil.php?e=BDED">BDED</a></b></td>
+		<td align="left">Bs.As. Discount Largo Plazo U$S</td>
+		<td>643,00</td>
+		<td><span style="color:darkgreen">1,1</span></td>
+		<td style="white-space:nowrap;">21,8%</td>
+		<td>Bs. As.</td>
+		<td>N.Y.</td>
+	</tr>
+	<tr style="font-size:11px; padding: 0px 4px;background-color: #e4e5ed;text-align: right; ">
+		<td align="left"><b><a href="/v2/empresas/perfil.php?e=BP15">BP15</a></b></td>
+		<td align="left">Buenos Aires 2015</td>
+		<td>1.400,00</td>
+		<td><span style="color:darkgreen">61,8</span></td>
+		<td style="white-space:nowrap;">20,3%</td>
+		<td>Bs. As.</td>
+		<td>N.Y.</td>
+	</tr>
+	<tr style="font-size:11px; padding: 0px 4px;background-color: #f5f5f5;text-align: right;">
+		<td align="left"><b><a href="/v2/empresas/perfil.php?e=BP18">BP18</a></b></td>
+		<td align="left">Buenos Aires 2018</td>
+		<td>1.305,00</td>
+		<td><span style="color:darkgreen">53,5</span></td>
+		<td style="white-space:nowrap;">14,4%</td>
+		<td>Bs. As.</td>
+		<td>N.Y.</td>
+	</tr>
+	<tr style="font-size:11px; padding: 0px 4px;background-color: #e4e5ed;text-align: right; ">
+		<td align="left"><b><a href="/v2/empresas/perfil.php?e=BP21">BP21</a></b></td>
+		<td align="left">Buenos Aires 2021</td>
+		<td>1.160,00</td>
+		<td><span style="color:darkgreen">41,5</span></td>
+		<td style="white-space:nowrap;">19,2%</td>
+		<td>Bs. As.</td>
+		<td>N.Y.</td>
+	</tr>
+	<tr style="font-size:11px; padding: 0px 4px;background-color: #f5f5f5;text-align: right;">
+		<td align="left"><b><a href="/v2/empresas/perfil.php?e=BP28">BP28</a></b></td>
+		<td align="left">Buenos Aires 2028</td>
+		<td>1.325,00</td>
+		<td><span style="color:darkgreen">83,0</span></td>
+		<td style="white-space:nowrap;">11,6%</td>
+		<td>Bs. As.</td>
+		<td>N.Y.</td>
+	</tr>
+	<tr style="font-size:11px; padding: 0px 4px;background-color: #e4e5ed;text-align: right; ">
+		<td align="left"><b><a href="/v2/empresas/perfil.php?e=BPLD">BPLD</a></b></td>
+		<td align="left">Bs.As. Par Largo Plazo u$s</td>
+		<td>825,00</td>
+		<td><span style="color:darkgreen">71,5</span></td>
+		<td style="white-space:nowrap;">11,2%</td>
+		<td>Bs. As.</td>
+		<td>N.Y.</td>
+	</tr>
+	<tr style="font-size:11px; padding: 0px 4px;background-color: #f5f5f5;text-align: right;">
+		<td align="left"><b><a href="/v2/empresas/perfil.php?e=BPMD">BPMD</a></b></td>
+		<td align="left">Bs.As. Par Mediano Plazo u$s</td>
+		<td>970,00</td>
+		<td><span style="color:darkgreen">64,4</span></td>
+		<td style="white-space:nowrap;">15,7%</td>
+		<td>Bs. As.</td>
+		<td>N.Y.</td>
+	</tr>
+	<tr style="font-size:11px; padding: 0px 4px;background-color: #e4e5ed;text-align: right; ">
+		<td align="left"><b><a href="/v2/empresas/perfil.php?e=DIA0">DIA0</a></b></td>
+		<td align="left">Discount U$S Ley Arg.</td>
+		<td>1.620,00</td>
+		<td><span style="color:darkgreen">53,6</span></td>
+		<td style="white-space:nowrap;">11,2%</td>
+		<td>Rep. Arg.</td>
+		<td>Arg.</td>
+	</tr>
+	<tr style="font-size:11px; padding: 0px 4px;background-color: #f5f5f5;text-align: right;">
+		<td align="left"><b><a href="/v2/empresas/perfil.php?e=DICA">DICA</a></b></td>
+		<td align="left">Discount U$S Ley Arg.</td>
+		<td>1.640,00</td>
+		<td><span style="color:darkgreen">49,1</span></td>
+		<td style="white-space:nowrap;">11,0%</td>
+		<td>Rep. Arg.</td>
+		<td>Arg.</td>
+	</tr>
+	<tr style="font-size:11px; padding: 0px 4px;background-color: #e4e5ed;text-align: right; ">
+		<td align="left"><b><a href="/v2/empresas/perfil.php?e=DICY">DICY</a></b></td>
+		<td align="left">Discount U$S Ley N.Y.</td>
+		<td>1.620,00</td>
+		<td><span style="color:darkgreen">72,2</span></td>
+		<td style="white-space:nowrap;">12,2%</td>
+		<td>Rep. Arg.</td>
+		<td>N.Y.</td>
+	</tr>
+	<tr style="font-size:11px; padding: 0px 4px;background-color: #f5f5f5;text-align: right;">
+		<td align="left"><b><a href="/v2/empresas/perfil.php?e=DIY0">DIY0</a></b></td>
+		<td align="left">Discount U$S Ley NY Canje 2010</td>
+		<td>1.650,00</td>
+		<td><span style="color:darkgreen">80,3</span></td>
+		<td style="white-space:nowrap;">11,9%</td>
+		<td>Rep. Arg.</td>
+		<td>N.Y.</td>
+	</tr>
+	<tr style="font-size:11px; padding: 0px 4px;background-color: #e4e5ed;text-align: right; ">
+		<td align="left"><b><a href="/v2/empresas/perfil.php?e=GJ17">GJ17</a></b></td>
+		<td align="left">Global 2017</td>
+		<td>1.225,00</td>
+		<td><span style="color:darkgreen">47,9</span></td>
+		<td style="white-space:nowrap;">20,3%</td>
+		<td>Rep. Arg.</td>
+		<td>N.Y.</td>
+	</tr>
+	<tr style="font-size:11px; padding: 0px 4px;background-color: #f5f5f5;text-align: right;">
+		<td align="left"><b><a href="/v2/empresas/perfil.php?e=PAA0">PAA0</a></b></td>
+		<td align="left">Par U$S Ley Arg. (Canje 2010)</td>
+		<td>705,00</td>
+		<td><span style="color:darkgreen">80,8</span></td>
+		<td style="white-space:nowrap;">9,1%</td>
+		<td>Rep. Arg.</td>
+		<td>Arg.</td>
+	</tr>
+	<tr style="font-size:11px; padding: 0px 4px;background-color: #e4e5ed;text-align: right; ">
+		<td align="left"><b><a href="/v2/empresas/perfil.php?e=PARA">PARA</a></b></td>
+		<td align="left">Par U$S Ley Arg.</td>
+		<td>745,00</td>
+		<td><span style="color:darkgreen">65,6</span></td>
+		<td style="white-space:nowrap;">8,7%</td>
+		<td>Rep. Arg.</td>
+		<td>Arg.</td>
+	</tr>
+	<tr style="font-size:11px; padding: 0px 4px;background-color: #f5f5f5;text-align: right;">
+		<td align="left"><b><a href="/v2/empresas/perfil.php?e=PARY">PARY</a></b></td>
+		<td align="left">Par U$S Ley N.Y.</td>
+		<td>711,00</td>
+		<td><span style="color:darkgreen">91,1</span></td>
+		<td style="white-space:nowrap;">9,7%</td>
+		<td>Rep. Arg.</td>
+		<td>N.Y.</td>
+	</tr>
+	<tr style="font-size:11px; padding: 0px 4px;background-color: #e4e5ed;text-align: right; ">
+		<td align="left"><b><a href="/v2/empresas/perfil.php?e=PAY0">PAY0</a></b></td>
+		<td align="left">Par U$S Ley N.Y. (Canje 2010)</td>
+		<td>680,00</td>
+		<td><span style="color:darkgreen">86,3</span></td>
+		<td style="white-space:nowrap;">10,1%</td>
+		<td>Rep. Arg.</td>
+		<td>N.Y.</td>
+	</tr>
+	<tr style="font-size:11px; padding: 0px 4px;background-color: #f5f5f5;text-align: right;">
+		<td align="left"><b><a href="/v2/empresas/perfil.php?e=RO15">RO15</a></b></td>
+		<td align="left">BODEN 2015</td>
+		<td>1.270,00</td>
+		<td><span style="color:darkgreen">42,1</span></td>
+		<td style="white-space:nowrap;">18,5%</td>
+		<td>Rep. Arg.</td>
+		<td>Arg.</td>
+	</tr>
+</table>
+</td>
+	</tr>
+</table>
+</td></tr></table><br><table cellpadding="0" width="100%" border="0" cellspacing="0"><tr><td>
+<table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
+	<tr class="celdapanel">
+		<td class="titulomodulo"><a style="text-decoration: none;color:#ffffff" name="p_Cupones Atados al PBI">Cupones Atados al PBI</a></td>
+	</tr>
+	<tr>
+		<td>
+<table style="border:dotted 1px #cccccc;border-top:0px;font-size:11px;" cellpadding="5" width="100%" align="center" cellspacing="0" border="0">
+	<tr style="padding: 5px;color:#000040;font-weight: bold;font-size: 10px;" align="right">
+		<td style="text-align: left; white-space:nowrap; width: 40px">Especie</td>
+		<td style="text-align: left;  white-space:nowrap; width: 180px">Nombre</td>
+		<td style="text-align: right; white-space:nowrap">Precio</td>
+		<td style="text-align: right; white-space:nowrap">% Año</td>
+		<td style="text-align: right; white-space:nowrap">TIR</td>
+		<td style="text-align: right; white-space:nowrap; width: 50px">Emisor</td>
+		<td style="text-align: right; white-space:nowrap">Ley</td>
+	</tr>
+	<tr style="font-size:11px; padding: 0px 4px;background-color: #e4e5ed;text-align: right; ">
+		<td align="left"><b><a href="/v2/empresas/perfil.php?e=TVPA">TVPA</a></b></td>
+		<td align="left">Cupones PBI U$S Ley Argentina</td>
+		<td>108,50</td>
+		<td><span style="color:darkgreen">28,4</span></td>
+		<td style="white-space:nowrap;">--</td>
+		<td>Rep. Arg.</td>
+		<td>Arg.</td>
+	</tr>
+	<tr style="font-size:11px; padding: 0px 4px;background-color: #f5f5f5;text-align: right;">
+		<td align="left"><b><a href="/v2/empresas/perfil.php?e=TVPE">TVPE</a></b></td>
+		<td align="left">Cupones PBI en Euros</td>
+		<td>134,00</td>
+		<td><span style="color:darkgreen">29,2</span></td>
+		<td style="white-space:nowrap;">--</td>
+		<td>Rep. Arg.</td>
+		<td>Ingl.</td>
+	</tr>
+	<tr style="font-size:11px; padding: 0px 4px;background-color: #e4e5ed;text-align: right; ">
+		<td align="left"><b><a href="/v2/empresas/perfil.php?e=TVPP">TVPP</a></b></td>
+		<td align="left">Cupones PBI en Pesos</td>
+		<td>5,20</td>
+		<td><span style="color:red">-53,6</span></td>
+		<td style="white-space:nowrap;">--</td>
+		<td>Rep. Arg.</td>
+		<td>Arg.</td>
+	</tr>
+	<tr style="font-size:11px; padding: 0px 4px;background-color: #f5f5f5;text-align: right;">
+		<td align="left"><b><a href="/v2/empresas/perfil.php?e=TVPY">TVPY</a></b></td>
+		<td align="left">Cupones PBI U$S Ley N.Y.</td>
+		<td>110,00</td>
+		<td><span style="color:darkgreen">35,8</span></td>
+		<td style="white-space:nowrap;">--</td>
+		<td>Rep. Arg.</td>
+		<td>N.Y.</td>
+	</tr>
+	<tr style="font-size:11px; padding: 0px 4px;background-color: #e4e5ed;text-align: right; ">
+		<td align="left"><b><a href="/v2/empresas/perfil.php?e=TVY0">TVY0</a></b></td>
+		<td align="left">Cupones PBI U$S 2010 Ley N.Y.</td>
+		<td>108,00</td>
+		<td><span style="color:darkgreen">35,3</span></td>
+		<td style="white-space:nowrap;">--</td>
+		<td>Rep. Arg.</td>
+		<td>N.Y.</td>
+	</tr>
+</table>
+</td>
+	</tr>
+</table>
+</td></tr></table></td>
+        </tr>
+      </table><br>
+    </td>
+  <tr>
+  <tr >
+    <td colspan=2 style="background-color:#e5e5e5; border: solid 1px #ccc">
+      <table width=100% height=50 cellpadding=20>
+        <tr>
+          <td align=center>
+            <a href="/v2/contenidos/bonos_analisis1.pdf" target="_blank"><b>Análisis Títulos Canje 2005/2010</b></a><br><span style="font-size:10px;">(Fuente: <a href="http://www.iamc.sba.com.ar/" target="_blank">I.A.M.C.</a>)</span>
+          </td>
+          
+          <td align=center >
+            <a href="/v2/contenidos/bonos_analisis2.pdf" target="_blank"><b>Análisis Títulos Nacionales</b></a><br><span style="font-size:10px;">(Fuente: <a href="http://www.iamc.sba.com.ar/" target="_blank">I.A.M.C.</a>)</span>
+          </td>
+          <td align=center >
+            <a href="/v2/contenidos/bonos_analisis3.pdf" target="_blank"><b>Análisis Títulos Provinciales y Otros</b></a><br><span style="font-size:10px;">(Fuente: <a href="http://www.iamc.sba.com.ar/" target="_blank">I.A.M.C.</a>)</span>
+          </td>
+          <td align=center >
+            <a href="/v2/contenidos/bonos_curvas.pdf" target="_blank"><b>Curvas de Rendimiento</b></a><br><span style="font-size:10px;">(Fuente: <a href="http://www.iamc.sba.com.ar/" target="_blank">I.A.M.C.</a>)</span>
+          </td>
+        </tr>
+      </table>
+    </td>
+  <tr>
+</table>
+<br><br>
+
+
+</div>
+</td></tr></table></p><br>
+			
+		</td>
+	</tr>
+
+
+</table>
+<!-- Fin Tabla Principal (778) -->
+</div>
+
+<table  width="100%" cellpadding="0" cellspacing="0" border="0" align="center">
+	
+		<tr class="footer" style="height:10px;" height="8">
+      <td style="border-top: solid 3px #aaaaaa;font-size:8px;">&nbsp;</td>
+    </tr>
+    <tr >
+		<!-- Comienzo Footer -->
+      <td  height="40" align="center" style="font-size:12px;"><span class="txtnoticia"><a href="/v2/pantalla.php?id=1">La Compañía</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/v2/pantalla.php?id=2">Aviso Legal</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/v2/pantalla.php?id=3">Banners</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/v2/pantalla.php?id=privacidad">Política de privacidad</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/v2/rss.php">RSS</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="mailto:info@ravaonline.com">Contáctenos</a>
+      
+      &nbsp;&nbsp;|&nbsp;&nbsp;
+      <a href="/v2/cv.php">Trabajar con Nosotros</a>
+      &nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://inversor.sba.com.ar/?180">Consulte su tenencia en Caja de Valores</a>
+      </span>
+      </td>
+      <!-- Fin Footer -->
+    </tr>
+    <tr>
+      <td style="font-size:12px; font-family:'Trebuchet MS', Arial; background-color:#ffffff; text-align:center"><b>Rava Bursátil S.A.</b> es una Sociedad de Bolsa inscripta en el <b>Mercado de Valores de Buenos Aires S.A.</b><br>25 de Mayo 277 Piso 5 (C1002ABE) Capital Federal, Argentina. Tel: (011) 4343-9421<br></td>
+    </tr>
+</table>
+
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-478522-1', 'ravaonline.com');
+  ga('require', 'linkid', 'linkid.js');
+  ga('require', 'displayfeatures');
+
+  ga('send', 'pageview');
+
+</script>
+
+
+</body>
+
+</html>

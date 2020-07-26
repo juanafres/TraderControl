@@ -1,0 +1,837 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" prefix="og: http://ogp.me/ns#">
+<head id="ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta http-equiv="Pragma" content="no-cache" /><meta http-equiv="Expires" content="-1" /><title>
+	COTIZACIONES / Acciones - Institucional Merval
+</title>
+    <style type="text/css">
+        body
+        {
+	        margin-left: 0px;
+	        margin-top: 0px;
+	        margin-right: 0px;
+	        margin-bottom: 0px;
+	        overflow-x:hidden;
+	        text-align:left;
+        }
+    </style>
+    <link href="../../App_Themes/Merval/merval-new.css" rel="stylesheet" type="text/css" />
+
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-19646603-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+
+    <link type="image/x-icon" href="../../imagenes/favicon.ico" rel="shortcut icon" /><link href="../../App_Themes/Merval/merval-new.css" type="text/css" rel="stylesheet" /><meta name="keywords" content="Merval Quotations Shares" /><meta name="description" content="Merval - Quotations / Shares. Shares represent capital contributions to the issuing company by its shareholders. They vest their owners with the capacity of shareholders and all the rights attached to each class of shares (common shares carrying one or multiple voting rights and preferred shares)." /><link href="/WebResource.axd?d=C_Ei9CisP3OjtI_-WYv6W8kRq3u-vGf-fERWp8Ubh0TaK5ADe0vd6NfEJRD1hbkfSp9-AOnutDm4029DsXoHXQ2&amp;t=633867988347709685" type="text/css" rel="stylesheet" /><link href="/WebResource.axd?d=LkVfqF9hFTdY49pJzgH3huKx5ZiInotVOBlgou4QN7U4ZguWflieV7USXCmfqVwzvmeCLQMoqpBfCalpe6Uejg2&amp;t=633867988341303640" rel="stylesheet" type="text/css" /></head>
+<body>
+
+    <script type="text/javascript" language="javascript" src='../../Scripts/JQ/1.4.3/jquery-1.4.3.min.js'></script>
+
+    <script type="text/javascript" language="javascript" src='../../Scripts/swfobject2.js'></script>
+
+    <script type="text/javascript" language="javascript" src='../../Scripts/Master01.js'></script>
+
+    <script type="text/javascript" language="javascript" src='../../Scripts/embeddedcontent.js'></script>
+
+    <script type="text/javascript" language="javascript" src='../../Scripts/ticker.js'></script>
+
+    <style type="text/css">
+        .top_izq
+        {
+            background-image: url(../../imagenes/mv_top_izq_con_logo.jpg);
+            width: 347px;
+            height: 119px;
+        }
+        .top_center
+        {
+            background-image: url(../../imagenes/mv_top_center.jpg);
+            width: 100%;
+            height: 119px;
+        }
+        .top_der
+        {
+            background-image: url(../../imagenes/mv_top_der.jpg);
+            width: 6px;
+            height: 119px;
+        }
+        .fondo_buscador
+        {
+            background-image: url(../../imagenes/mv_fondo_buscador_top.jpg);
+            width: 142px;
+            height: 48px;
+        }
+        .fondo_reg
+        {
+            background-image: url(../../imagenes/mv_fondo_registracion_top.jpg);
+            width: 221px;
+            height: 48px;
+        }
+        .flecha_arriba
+        {
+            background-image: url(../../imagenes/flecha_verde.gif);
+            width: 10px;
+            height: 10px;
+            border: 0;
+            vertical-align: middle;
+            display: inline-block;
+        }
+        .flecha_abajo
+        {
+            background-image: url(../../imagenes/flecha_roja.gif);
+            width: 10px;
+            height: 10px;
+            border: 0;
+            vertical-align: middle;
+            display: inline-block;
+        }
+        .flecha_igual
+        {
+            background-image: url(../../imagenes/flecha_azul.gif);
+            width: 10px;
+            height: 10px;
+            border: 0;
+            vertical-align: middle;
+            display: inline-block;
+        }
+        .sep_tk
+        {
+            background-image: url(../../imagenes/space.gif);
+            width: 30px;
+            height: 10px;
+            border: 0;
+            vertical-align: middle;
+            display: inline-block;
+        }
+        .btnBuscar
+        {
+            background-image: url(../../imagenes/mv_ok.jpg);
+            width: 15px;
+            height: 15px;
+            cursor: pointer;
+        }
+    </style>
+    <form name="aspnetForm" method="post" action="acciones.aspx" id="aspnetForm">
+<input type="hidden" name="ctl00_ToolkitScriptManagerMaster_HiddenField" id="ctl00_ToolkitScriptManagerMaster_HiddenField" value="" />
+<input type="hidden" name="ctl00_ContentCentral_tcAcciones_ClientState" id="ctl00_ContentCentral_tcAcciones_ClientState" value="{&quot;ActiveTabIndex&quot;:0,&quot;TabState&quot;:[true,true,true,true,true]}" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE4NTcyNjg1MTgPFgoeDk9yZGVuZ3JkTWVydmFsBQREZXNjHg9PcmRlbmRnckdlbmVyYWwFBERlc2MeEE9yZGVuZ3JkTWVydmFsMjUFBERlc2MeC09yZGVuZ3JkTUFSBQREZXNjHgxPcmRlbmdyZFB5bWUFBERlc2MWAmYPZBYCAgEPZBYeAgMPZBYCZg9kFgJmD2QWAgIBDw9kFgIeB29uY2xpY2sFFHdpbmRvdy5uYXZpZ2F0ZSgnJyk7ZAIFD2QWAmYPZBYCZg9kFgYCBg8PFgIeCEltYWdlVXJsBR1+XGltYWdlbmVzXG12X2JhbmRlcmFfaW5nLnBuZ2RkAgcPDxYCHgRUZXh0BQdFbmdsaXNoZGQCCg8WAh4HVmlzaWJsZWgWAgIBD2QWAmYPZBYEAgEPDxYCHwhoZGQCAw8PFgIfCGhkZAIJDw8WAh8HBRgzMCBERSBTRVBUSUVNQlJFIERFIDIwMTRkZAILDw8WAh8GBRt+L2ltYWdlbmVzL2NhbXBhbmFfcm9qYS5wbmdkZAINDw8WBB4Ic3RyQ2xhdmUFDk1lcmNhZG9DZXJyYWRvHwdlZGQCEQ8PFgIfBwUpSE9SQSBCVUVOT1MgQUlSRVM6IDIyOjMyIC0gU1UgSE9SQTogMjI6MzJkZAITDw8WAh8IaGRkAhUPDxYCHwhoZGQCFw8PFgIfCGhkZAIZDw8WAh8IaGRkAhsPDxYCHwhoZGQCHQ8PFgIeCUZsYXNoVmFycwVHcGF0aD1odHRwOi8vd3d3Lm1lcnZhbC5zYmEuY29tLmFyLyZtZW51QWN0aXZvPW1lbnUueG1sJm1lbnVJbmdsZXM9eG1sLyZkZAIfDxYCHgV3aWR0aAUDODUwFgICAQ9kFgQCBQ8WAh4ISW50ZXJ2YWwC4NQDZAIHD2QWAmYPZBYCAgEPZBYKZg8PZBYCHgVzdHlsZQUVYmFja2dyb3VuZC1jb2xvcjpyZWQ7FgICAQ9kFgQCBQ88KwALAgAPFggeCERhdGFLZXlzFgAeC18hSXRlbUNvdW50Ag0eCVBhZ2VDb3VudAIBHhVfIURhdGFTb3VyY2VJdGVtQ291bnQCDWQBPCsADwINPCsABAEAFgIfCGgOPCsABAEAFgIfCGgWAmYPZBYcZg9kFh5mDw8WBB4IQ3NzQ2xhc3MFInR4dEdyaXNUYWJsYV9Db25Cb3JkZV9BcnJpYmFZQWJham8eBF8hU0ICAmRkAgEPDxYEHxIFInR4dEdyaXNUYWJsYV9Db25Cb3JkZV9BcnJpYmFZQWJham8fEwICZGQCAg8PFgQfEgUidHh0R3Jpc1RhYmxhX0NvbkJvcmRlX0FycmliYVlBYmFqbx8TAgJkZAIDDw8WBB8SBSJ0eHRHcmlzVGFibGFfQ29uQm9yZGVfQXJyaWJhWUFiYWpvHxMCAmRkAgQPDxYEHxIFInR4dEdyaXNUYWJsYV9Db25Cb3JkZV9BcnJpYmFZQWJham8fEwICZGQCBQ8PFgQfEgUidHh0R3Jpc1RhYmxhX0NvbkJvcmRlX0FycmliYVlBYmFqbx8TAgJkZAIGDw8WBB8SBSJ0eHRHcmlzVGFibGFfQ29uQm9yZGVfQXJyaWJhWUFiYWpvHxMCAmRkAgcPDxYEHxIFInR4dEdyaXNUYWJsYV9Db25Cb3JkZV9BcnJpYmFZQWJham8fEwICZGQCCA8PFgQfEgUidHh0R3Jpc1RhYmxhX0NvbkJvcmRlX0FycmliYVlBYmFqbx8TAgJkZAIJDw8WBB8SBSJ0eHRHcmlzVGFibGFfQ29uQm9yZGVfQXJyaWJhWUFiYWpvHxMCAmRkAgoPDxYEHxIFInR4dEdyaXNUYWJsYV9Db25Cb3JkZV9BcnJpYmFZQWJham8fEwICZGQCCw8PFgQfEgUidHh0R3Jpc1RhYmxhX0NvbkJvcmRlX0FycmliYVlBYmFqbx8TAgJkZAIMDw8WBB8SBSJ0eHRHcmlzVGFibGFfQ29uQm9yZGVfQXJyaWJhWUFiYWpvHxMCAmRkAg0PDxYEHxIFInR4dEdyaXNUYWJsYV9Db25Cb3JkZV9BcnJpYmFZQWJham8fEwICZGQCDg8PFgQfEgUidHh0R3Jpc1RhYmxhX0NvbkJvcmRlX0FycmliYVlBYmFqbx8TAgJkZAIBD2QWHmYPDxYGHwcFAjM4HxIFFXR4dEdyaXNUYWJsYV9Db25Cb3JkZR8TAgJkZAIBDw8WBB8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZBYCZg8PFgYfBwUEQUxVQR8SBQRsaW5rHxMCAmRkAgIPDxYGHwcFCDE2OjU5OjQzHxIFFXR4dEdyaXNUYWJsYV9Db25Cb3JkZR8TAgJkZAIDDw8WBh8HBQU5LDgzMB8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCBA8PFgYfBwUFOSw5NTAfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmRkAgUPDxYGHwcFBTksOTUwHxIFFXR4dEdyaXNUYWJsYV9Db25Cb3JkZR8TAgJkZAIGDw8WBh8HBQU5LDUzMB8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCBw8PFgYfBwUFOSw1ODAfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmRkAggPDxYGHwcFBy0yLDU0ICUfEgUVdHh0Um9qb1RhYmxhX0NvbkJvcmRlHxMCAmRkAgkPDxYGHwcFCjEyLjU4NC41MDEfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmRkAgoPDxYGHwcFCTEuMjk5LjUxNB8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCCw8PFgYfBwUFOSw2ODQfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmRkAgwPDxYGHwcFDEFSQUxVQTAxMDI1OB8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCDQ8PFgYfBwUCNzUfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmRkAg4PDxYGHwcFAzExNB8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCAg9kFh5mDw8WBh8HBQI1Nh8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCAQ8PFgQfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmQWAmYPDxYGHwcFBEFQQlIfEgUEbGluax8TAgJkZAICDw8WBh8HBQgxNzowMDozNR8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCAw8PFgYfBwUHMTEwLDgwMB8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCBA8PFgYfBwUHMTA2LDkwMB8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCBQ8PFgYfBwUHMTA5LDAwMB8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCBg8PFgYfBwUHMTA1LDUwMB8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCBw8PFgYfBwUHMTA4LDAwMB8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCCA8PFgYfBwUHLTIsNTMgJR8SBRV0eHRSb2pvVGFibGFfQ29uQm9yZGUfEwICZGQCCQ8PFgYfBwUKNTMuNjY1LjA2MR8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCCg8PFgYfBwUHNDk5LjgwMh8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCCw8PFgYfBwUHMTA3LDM3Mx8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCDA8PFgYfBwUMQlJQRVRSQUNOT1I5HxIFFXR4dEdyaXNUYWJsYV9Db25Cb3JkZR8TAgJkZAINDw8WBh8HBQMxMjIfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmRkAg4PDxYGHwcFAzExNB8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCAw9kFh5mDw8WBh8HBQMxMTkfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmRkAgEPDxYEHxIFFXR4dEdyaXNUYWJsYV9Db25Cb3JkZR8TAgJkFgJmDw8WBh8HBQNCTUEfEgUEbGluax8TAgJkZAICDw8WBh8HBQgxNjo1OTo1Mx8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCAw8PFgYfBwUGNTksNzAwHxIFFXR4dEdyaXNUYWJsYV9Db25Cb3JkZR8TAgJkZAIEDw8WBh8HBQY1OCw1MDAfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmRkAgUPDxYGHwcFBjYwLDUwMB8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCBg8PFgYfBwUGNTYsNTAwHxIFFXR4dEdyaXNUYWJsYV9Db25Cb3JkZR8TAgJkZAIHDw8WBh8HBQY1Niw1MDAfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmRkAggPDxYGHwcFBy01LDM2ICUfEgUVdHh0Um9qb1RhYmxhX0NvbkJvcmRlHxMCAmRkAgkPDxYGHwcFCTYuNzY4LjMyOR8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCCg8PFgYfBwUHMTEzLjk1Nh8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCCw8PFgYfBwUGNTksMzk0HxIFFXR4dEdyaXNUYWJsYV9Db25Cb3JkZR8TAgJkZAIMDw8WBh8HBQxBUkJBTlMwMTAwMTAfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmRkAg0PDxYGHwcFAjM1HxIFFXR4dEdyaXNUYWJsYV9Db25Cb3JkZR8TAgJkZAIODw8WBh8HBQI4Nh8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCBA9kFh5mDw8WBh8HBQMyMzYfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmRkAgEPDxYEHxIFFXR4dEdyaXNUYWJsYV9Db25Cb3JkZR8TAgJkFgJmDw8WBh8HBQRDT01FHxIFBGxpbmsfEwICZGQCAg8PFgYfBwUIMTc6MDE6MzEfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmRkAgMPDxYGHwcFBTIsMDQwHxIFFXR4dEdyaXNUYWJsYV9Db25Cb3JkZR8TAgJkZAIEDw8WBh8HBQUyLDAwMB8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCBQ8PFgYfBwUFMiwwNDAfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmRkAgYPDxYGHwcFBTEsOTUwHxIFFXR4dEdyaXNUYWJsYV9Db25Cb3JkZR8TAgJkZAIHDw8WBh8HBQUxLDk3MB8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCCA8PFgYfBwUHLTMsNDMgJR8SBRV0eHRSb2pvVGFibGFfQ29uQm9yZGUfEwICZGQCCQ8PFgYfBwUKMTEuMzUyLjY2Nh8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCCg8PFgYfBwUJNS43MzguMDEwHxIFFXR4dEdyaXNUYWJsYV9Db25Cb3JkZR8TAgJkZAILDw8WBh8HBQUxLDk3OR8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCDA8PFgYfBwUMQVJQMjkwMDcxNDYyHxIFFXR4dEdyaXNUYWJsYV9Db25Cb3JkZR8TAgJkZAINDw8WBh8HBQMxMDMfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmRkAg4PDxYGHwcFAjE2HxIFFXR4dEdyaXNUYWJsYV9Db25Cb3JkZR8TAgJkZAIFD2QWHmYPDxYGHwcFAzI5OR8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCAQ8PFgQfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmQWAmYPDxYGHwcFA0VETh8SBQRsaW5rHxMCAmRkAgIPDxYGHwcFCDE3OjAwOjIwHxIFFXR4dEdyaXNUYWJsYV9Db25Cb3JkZR8TAgJkZAIDDw8WBh8HBQU4LDAzMB8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCBA8PFgYfBwUFNyw5NTAfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmRkAgUPDxYGHwcFBTgsNjEwHxIFFXR4dEdyaXNUYWJsYV9Db25Cb3JkZR8TAgJkZAIGDw8WBh8HBQU3LDcwMB8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCBw8PFgYfBwUFOCw1MDAfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmRkAggPDxYGHwcFBys1LDg1ICUfEgUWdHh0VmVyZGVUYWJsYV9Db25Cb3JkZR8TAgJkZAIJDw8WBh8HBQoxNy40MjIuMTAyHxIFFXR4dEdyaXNUYWJsYV9Db25Cb3JkZR8TAgJkZAIKDw8WBh8HBQkyLjEyMS4yMTYfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmRkAgsPDxYGHwcFBTgsMjEzHxIFFXR4dEdyaXNUYWJsYV9Db25Cb3JkZR8TAgJkZAIMDw8WBh8HBQxBUkVOT1IwMTAwMjAfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmRkAg0PDxYGHwcFAzE1Mh8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCDg8PFgYfBwUCMzgfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmRkAgYPZBYeZg8PFgYfBwUDMzA2HxIFFXR4dEdyaXNUYWJsYV9Db25Cb3JkZR8TAgJkZAIBDw8WBB8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZBYCZg8PFgYfBwUERVJBUh8SBQRsaW5rHxMCAmRkAgIPDxYGHwcFCDE3OjAwOjA4HxIFFXR4dEdyaXNUYWJsYV9Db25Cb3JkZR8TAgJkZAIDDw8WBh8HBQU3LDMwMB8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCBA8PFgYfBwUFNywzMDAfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmRkAgUPDxYGHwcFBTcsMzMwHxIFFXR4dEdyaXNUYWJsYV9Db25Cb3JkZR8TAgJkZAIGDw8WBh8HBQU3LDA4MB8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCBw8PFgYfBwUFNywxNDAfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmRkAggPDxYGHwcFBy0yLDE5ICUfEgUVdHh0Um9qb1RhYmxhX0NvbkJvcmRlHxMCAmRkAgkPDxYGHwcFCjI5Ljg1OC41OTUfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmRkAgoPDxYGHwcFCTQuMTQ1LjA2OB8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCCw8PFgYfBwUFNywyMDMfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmRkAgwPDxYGHwcFDEFSU0lERTAxMDAyOR8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCDQ8PFgYfBwUCNTAfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmRkAg4PDxYGHwcFATcfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmRkAgcPZBYeZg8PFgYfBwUDMzM5HxIFFXR4dEdyaXNUYWJsYV9Db25Cb3JkZR8TAgJkZAIBDw8WBB8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZBYCZg8PFgYfBwUERlJBTh8SBQRsaW5rHxMCAmRkAgIPDxYGHwcFCDE2OjU2OjU0HxIFFXR4dEdyaXNUYWJsYV9Db25Cb3JkZR8TAgJkZAIDDw8WBh8HBQY2NCwwMDAfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmRkAgQPDxYGHwcFBjYzLDIwMB8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCBQ8PFgYfBwUGNjUsMDAwHxIFFXR4dEdyaXNUYWJsYV9Db25Cb3JkZR8TAgJkZAIGDw8WBh8HBQY2Miw1MDAfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmRkAgcPDxYGHwcFBjYzLDgwMB8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCCA8PFgYfBwUHLTAsMzEgJR8SBRV0eHRSb2pvVGFibGFfQ29uQm9yZGUfEwICZGQCCQ8PFgYfBwUJMi42NzAuMDg3HxIFFXR4dEdyaXNUYWJsYV9Db25Cb3JkZR8TAgJkZAIKDw8WBh8HBQY0MS43MjYfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmRkAgsPDxYGHwcFBjYzLDk5MR8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCDA8PFgYfBwUMQVJQMTI1OTkxMDkwHxIFFXR4dEdyaXNUYWJsYV9Db25Cb3JkZR8TAgJkZAINDw8WBh8HBQMxMTgfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmRkAg4PDxYGHwcFAzE1Mh8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCCA9kFh5mDw8WBh8HBQMzNzcfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmRkAgEPDxYEHxIFFXR4dEdyaXNUYWJsYV9Db25Cb3JkZR8TAgJkFgJmDw8WBh8HBQRHR0FMHxIFBGxpbmsfEwICZGQCAg8PFgYfBwUIMTc6MDE6MTcfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmRkAgMPDxYGHwcFBjIxLDI1MB8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCBA8PFgYfBwUGMjEsMTUwHxIFFXR4dEdyaXNUYWJsYV9Db25Cb3JkZR8TAgJkZAIFDw8WBh8HBQYyMSwzMDAfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmRkAgYPDxYGHwcFBjIwLDcwMB8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCBw8PFgYfBwUGMjEsMDAwHxIFFXR4dEdyaXNUYWJsYV9Db25Cb3JkZR8TAgJkZAIIDw8WBh8HBQctMSwxOCAlHxIFFXR4dFJvam9UYWJsYV9Db25Cb3JkZR8TAgJkZAIJDw8WBh8HBQoyNi4wNTcuMzYyHxIFFXR4dEdyaXNUYWJsYV9Db25Cb3JkZR8TAgJkZAIKDw8WBh8HBQkxLjIzOC4yMTAfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmRkAgsPDxYGHwcFBjIxLDA0NB8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCDA8PFgYfBwUMQVJQNDk1MjUxMDE4HxIFFXR4dEdyaXNUYWJsYV9Db25Cb3JkZR8TAgJkZAINDw8WBh8HBQIzOB8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCDg8PFgYfBwUCMTYfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmRkAgkPZBYeZg8PFgYfBwUDNTA2HxIFFXR4dEdyaXNUYWJsYV9Db25Cb3JkZR8TAgJkZAIBDw8WBB8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZBYCZg8PFgYfBwUEUEFNUB8SBQRsaW5rHxMCAmRkAgIPDxYGHwcFCDE2OjU5OjIxHxIFFXR4dEdyaXNUYWJsYV9Db25Cb3JkZR8TAgJkZAIDDw8WBh8HBQU2LDUwMB8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCBA8PFgYfBwUFNiw1MDAfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmRkAgUPDxYGHwcFBTYsNTAwHxIFFXR4dEdyaXNUYWJsYV9Db25Cb3JkZR8TAgJkZAIGDw8WBh8HBQU2LDI1MB8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCBw8PFgYfBwUFNiw0MTAfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmRkAggPDxYGHwcFBy0xLDM4ICUfEgUVdHh0Um9qb1RhYmxhX0NvbkJvcmRlHxMCAmRkAgkPDxYGHwcFCjExLjIzNS44NTUfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmRkAgoPDxYGHwcFCTEuNzUzLjQ3OB8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCCw8PFgYfBwUFNiw0MDgfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmRkAgwPDxYGHwcFDEFSUDQzMjYzMTIxNR8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCDQ8PFgYfBwUDMjA2HxIFFXR4dEdyaXNUYWJsYV9Db25Cb3JkZR8TAgJkZAIODw8WBh8HBQMyNDUfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmRkAgoPZBYeZg8PFgYfBwUDNTM4HxIFFXR4dEdyaXNUYWJsYV9Db25Cb3JkZR8TAgJkZAIBDw8WBB8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZBYCZg8PFgYfBwUEUEVTQR8SBQRsaW5rHxMCAmRkAgIPDxYGHwcFCDE2OjU0OjA2HxIFFXR4dEdyaXNUYWJsYV9Db25Cb3JkZR8TAgJkZAIDDw8WBh8HBQU5LDkzMB8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCBA8PFgYfBwUFOSw5MDAfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmRkAgUPDxYGHwcFBTksOTAwHxIFFXR4dEdyaXNUYWJsYV9Db25Cb3JkZR8TAgJkZAIGDw8WBh8HBQU5LDcwMB8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCBw8PFgYfBwUFOSw3OTAfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmRkAggPDxYGHwcFBy0xLDQxICUfEgUVdHh0Um9qb1RhYmxhX0NvbkJvcmRlHxMCAmRkAgkPDxYGHwcFCTIuMjk3LjY4OB8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCCg8PFgYfBwUHMjM0Ljg5Mx8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCCw8PFgYfBwUFOSw3ODIfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmRkAgwPDxYGHwcFDEFSUEVSRTAxMDEwMx8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCDQ8PFgYfBwUDMjExHxIFFXR4dEdyaXNUYWJsYV9Db25Cb3JkZR8TAgJkZAIODw8WBh8HBQMxNTIfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmRkAgsPZBYeZg8PFgYfBwUDNjYxHxIFFXR4dEdyaXNUYWJsYV9Db25Cb3JkZR8TAgJkZAIBDw8WBB8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZBYCZg8PFgYfBwUFVEVDTzIfEgUEbGluax8TAgJkZAICDw8WBh8HBQgxNjo1ODo1OR8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCAw8PFgYfBwUGNjAsNjUwHxIFFXR4dEdyaXNUYWJsYV9Db25Cb3JkZR8TAgJkZAIEDw8WBh8HBQY1OSw5MDAfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmRkAgUPDxYGHwcFBjYxLDQwMB8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCBg8PFgYfBwUGNTksMDAwHxIFFXR4dEdyaXNUYWJsYV9Db25Cb3JkZR8TAgJkZAIHDw8WBh8HBQY2MCw1MDAfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmRkAggPDxYGHwcFBy0wLDI1ICUfEgUVdHh0Um9qb1RhYmxhX0NvbkJvcmRlHxMCAmRkAgkPDxYGHwcFCTcuMzU1LjMzMh8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCCg8PFgYfBwUHMTIzLjg0Nh8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCCw8PFgYfBwUGNTksMzkxHxIFFXR4dEdyaXNUYWJsYV9Db25Cb3JkZR8TAgJkZAIMDw8WBh8HBQxBUlA5MDI4TjEwMTYfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmRkAg0PDxYGHwcFAzExNB8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCDg8PFgYfBwUDMjAwHxIFFXR4dEdyaXNUYWJsYV9Db25Cb3JkZR8TAgJkZAIMD2QWHmYPDxYGHwcFAzY5Nh8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCAQ8PFgQfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmQWAmYPDxYGHwcFAlRTHxIFBGxpbmsfEwICZGQCAg8PFgYfBwUIMTY6NTk6MTQfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmRkAgMPDxYGHwcFBzMzOCw1MDAfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmRkAgQPDxYGHwcFBzMzNSwwMDAfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmRkAgUPDxYGHwcFBzM0NywwMDAfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmRkAgYPDxYGHwcFBzMzNSwwMDAfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmRkAgcPDxYGHwcFBzM0NiwxMDAfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmRkAggPDxYGHwcFBysyLDI1ICUfEgUWdHh0VmVyZGVUYWJsYV9Db25Cb3JkZR8TAgJkZAIJDw8WBh8HBQoyMy4yNDEuNjQyHxIFFXR4dEdyaXNUYWJsYV9Db25Cb3JkZR8TAgJkZAIKDw8WBh8HBQY2OC4wMjUfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmRkAgsPDxYGHwcFBzM0MSw2NjMfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmRkAgwPDxYGHwcFDExVMDE1NjgwMTcyMR8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCDQ8PFgYfBwUDMjAwHxIFFXR4dEdyaXNUYWJsYV9Db25Cb3JkZR8TAgJkZAIODw8WBh8HBQMxMTQfEgUVdHh0R3Jpc1RhYmxhX0NvbkJvcmRlHxMCAmRkAg0PZBYeZg8PFgYfBwUDNzEwHxIFFXR4dEdyaXNUYWJsYV9Db25Cb3JkZR8TAgJkZAIBDw8WBB8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZBYCZg8PFgYfBwUEWVBGRB8SBQRsaW5rHxMCAmRkAgIPDxYGHwcFCDE2OjU5OjU4HxIFFXR4dEdyaXNUYWJsYV9Db25Cb3JkZR8TAgJkZAIDDw8WBh8HBQc1NTEsMDAwHxIFFXR4dEdyaXNUYWJsYV9Db25Cb3JkZR8TAgJkZAIEDw8WBh8HBQc1NTEsMDAwHxIFFXR4dEdyaXNUYWJsYV9Db25Cb3JkZR8TAgJkZAIFDw8WBh8HBQc1NjEsMDAwHxIFFXR4dEdyaXNUYWJsYV9Db25Cb3JkZR8TAgJkZAIGDw8WBh8HBQc1NDgsMDAwHxIFFXR4dEdyaXNUYWJsYV9Db25Cb3JkZR8TAgJkZAIHDw8WBh8HBQc1NTgsMDAwHxIFFXR4dEdyaXNUYWJsYV9Db25Cb3JkZR8TAgJkZAIIDw8WBh8HBQcrMSwyNyAlHxIFFnR4dFZlcmRlVGFibGFfQ29uQm9yZGUfEwICZGQCCQ8PFgYfBwUKNTkuMTEyLjQ3Nh8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCCg8PFgYfBwUHMTA2LjEwMR8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCCw8PFgYfBwUHNTU3LDEzNB8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCDA8PFgYfBwUMQVJQOTg5N1gxMzE5HxIFFXR4dEdyaXNUYWJsYV9Db25Cb3JkZR8TAgJkZAINDw8WBh8HBQE4HxIFFXR4dEdyaXNUYWJsYV9Db25Cb3JkZR8TAgJkZAIODw8WBh8HBQIzMx8SBRV0eHRHcmlzVGFibGFfQ29uQm9yZGUfEwICZGQCBw8PFgIfBwUfUGxhem8gNzIgaHMuIC0gREFUT1MgU0lOIERFTU9SQWRkAgEPZBYCAgEPZBYCAgUPPCsACwBkAgIPZBYCAgEPZBYCAgUPPCsACwBkAgMPZBYCAgEPZBYCAgUPPCsACwBkAgQPZBYCAgEPZBYCAgMPPCsACwBkAiEPFgYfCwUDMjcwHw0FDWRpc3BsYXk6bm9uZTsfCGgWBGYPZBYCZg9kFgICAQ9kFgJmD2QWAmYPZBYCAgEPZBYCZg9kFgICAQ9kFgpmDw8WAh8HBQjDjU5ESUNFU2RkAgEPDxYCHwcFAyB8IGRkAgIPDxYCHwcFCjMwLzA5LzIwMTRkZAIDDw8WAh8HBQUxNzowMWRkAggPZBYCZg9kFgJmD2QWCgIBDxYCHwhnFgJmD2QWAmYPZBYCAgMPZBYCZg9kFgJmD2QWAgIBD2QWAmYPZBYCZg9kFgJmDxBkZBYAZAIFD2QWAmYPZBYCZg9kFgICAQ9kFgJmD2QWAmYPZBYCZg8QZGQWAGQCCQ9kFgJmD2QWAmYPZBYCAgEPZBYCZg9kFgJmD2QWAmYPEGRkFgBkAg0PZBYCZg9kFgJmD2QWAgIBD2QWAmYPZBYCZg9kFgJmDxBkZBYAZAIRD2QWAmYPZBYCZg9kFgICAQ9kFgJmD2QWAmYPZBYCZg8QZGQWAGQCAg9kFgJmD2QWAgIBD2QWAmYPZBYCZg9kFgICAQ9kFgJmD2QWAgIBD2QWAgIJD2QWBmYPDxYCHgpIZWFkZXJUZXh0BQhBQ0NJT05FU2QWBGYPZBYCAgEPFgIeCWlubmVyaHRtbAUIQUNDSU9ORVNkAgEPZBYCAgEPEGQQFQQFVG9kYXMVQWNjaW9uZXMgbcOhcyBBY3RpdmFzDU1heW9yZXMgQWx6YXMNTWF5b3JlcyBCYWphcxUEBVRvZGFzFUFjY2lvbmVzIG3DoXMgQWN0aXZhcw1NYXlvcmVzIEFsemFzDU1heW9yZXMgQmFqYXMUKwMEZ2dnZxYBZmQCAQ8PFgIfFAUKVk9Mw5pNRU5FU2QWAmYPZBYCAgEPFgIfFQUOVk9MJiMyMTg7TUVORVNkAgIPDxYCHxQFDFQuIFDDmkJMSUNPU2QWBGYPZBYCAgEPFgIfFQUQVC4gUCYjMjE4O0JMSUNPU2QCAQ9kFgICAQ9kFgQCBw9kFgJmD2QWAmYPZBYCZg8QZGQWAGQCCQ8QZBAVAx9Uw610dWxvcyBQw7pibGljb3MgbcOhcyBBY3Rpdm9zDU1heW9yZXMgQWx6YXMNTWF5b3JlcyBCYWphcxUDH1TDrXR1bG9zIFDDumJsaWNvcyBtw6FzIEFjdGl2b3MNTWF5b3JlcyBBbHphcw1NYXlvcmVzIEJhamFzFCsDA2dnZxYBZmQCMw8WBB8MAuDUAx4HRW5hYmxlZGhkGAMFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYCBQ9jdGwwMCRpbWdJZGlvbWEFH2N0bDAwJENvbnRlbnRDZW50cmFsJHRjQWNjaW9uZXMFJ2N0bDAwJFBhbmVsUmVzdW1lbjEkVGFiQ29udGFpbmVyUmVzdW1lbg8PZGZkBR9jdGwwMCRDb250ZW50Q2VudHJhbCR0Y0FjY2lvbmVzDw9kZmRb2XpHzvztlJlBu+36aMlz4wzXLQ==" />
+
+
+<script src="/ScriptResource.axd?d=yOzf-elMYEjkxFjLBqkbHjHRvB96xAf2YBKHaW-nCis8Xaee5cQssw9svClfrhR4NBWLTERwEZaKbXy_uRiLvmE_F9XNrzDfAmQDq4hGU6w1&amp;t=633616656511341850" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=yOzf-elMYEjkxFjLBqkbHjHRvB96xAf2YBKHaW-nCis8Xaee5cQssw9svClfrhR4NBWLTERwEZaKbXy_uRiLvk-vPho5-69ctJAg1pdLsbI1&amp;t=633616656511341850" type="text/javascript"></script>
+<script src="/vistas/cotizaciones/acciones.aspx?_TSM_HiddenField_=ctl00_ToolkitScriptManagerMaster_HiddenField&amp;_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d1.0.20229.20821%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aes-ES%3ac5c982cc-4942-4683-9b48-c2c58277700f%3ae2e86ef9%3a1df13a87%3aee0a475d%3ac4c00916" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var PageMethods = function() {
+PageMethods.initializeBase(this);
+this._timeout = 0;
+this._userContext = null;
+this._succeeded = null;
+this._failed = null;
+}
+PageMethods.prototype = {
+getContenidoTicker:function(succeededCallback, failedCallback, userContext) {
+return this._invoke(PageMethods.get_path(), 'getContenidoTicker',false,{},succeededCallback,failedCallback,userContext); },
+setEstadoControlPanelIndice:function(control,bColapsado,succeededCallback, failedCallback, userContext) {
+return this._invoke(PageMethods.get_path(), 'setEstadoControlPanelIndice',false,{control:control,bColapsado:bColapsado},succeededCallback,failedCallback,userContext); },
+getHoraEstadoMercado:function(succeededCallback, failedCallback, userContext) {
+return this._invoke(PageMethods.get_path(), 'getHoraEstadoMercado',false,{},succeededCallback,failedCallback,userContext); },
+BuscarTexto:function(strTextABuscar,succeededCallback, failedCallback, userContext) {
+return this._invoke(PageMethods.get_path(), 'BuscarTexto',false,{strTextABuscar:strTextABuscar},succeededCallback,failedCallback,userContext); }}
+PageMethods.registerClass('PageMethods',Sys.Net.WebServiceProxy);
+PageMethods._staticInstance = new PageMethods();
+PageMethods.set_path = function(value) { PageMethods._staticInstance._path = value; }
+PageMethods.get_path = function() { return PageMethods._staticInstance._path; }
+PageMethods.set_timeout = function(value) { PageMethods._staticInstance._timeout = value; }
+PageMethods.get_timeout = function() { return PageMethods._staticInstance._timeout; }
+PageMethods.set_defaultUserContext = function(value) { PageMethods._staticInstance._userContext = value; }
+PageMethods.get_defaultUserContext = function() { return PageMethods._staticInstance._userContext; }
+PageMethods.set_defaultSucceededCallback = function(value) { PageMethods._staticInstance._succeeded = value; }
+PageMethods.get_defaultSucceededCallback = function() { return PageMethods._staticInstance._succeeded; }
+PageMethods.set_defaultFailedCallback = function(value) { PageMethods._staticInstance._failed = value; }
+PageMethods.get_defaultFailedCallback = function() { return PageMethods._staticInstance._failed; }
+PageMethods.set_path("/vistas/cotizaciones/acciones.aspx");
+PageMethods.getContenidoTicker= function(onSuccess,onFailed,userContext) {PageMethods._staticInstance.getContenidoTicker(onSuccess,onFailed,userContext); }
+PageMethods.setEstadoControlPanelIndice= function(control,bColapsado,onSuccess,onFailed,userContext) {PageMethods._staticInstance.setEstadoControlPanelIndice(control,bColapsado,onSuccess,onFailed,userContext); }
+PageMethods.getHoraEstadoMercado= function(onSuccess,onFailed,userContext) {PageMethods._staticInstance.getHoraEstadoMercado(onSuccess,onFailed,userContext); }
+PageMethods.BuscarTexto= function(strTextABuscar,onSuccess,onFailed,userContext) {PageMethods._staticInstance.BuscarTexto(strTextABuscar,onSuccess,onFailed,userContext); }
+var gtc = Sys.Net.WebServiceProxy._generateTypedConstructor;
+Type.registerNamespace('Merval.Contenidos.Componentes');
+if (typeof(Merval.Contenidos.Componentes.HoraMercado) === 'undefined') {
+Merval.Contenidos.Componentes.HoraMercado=gtc("Merval.Contenidos.Componentes.HoraMercado");
+Merval.Contenidos.Componentes.HoraMercado.registerClass('Merval.Contenidos.Componentes.HoraMercado');
+}
+//]]>
+</script>
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWHAKYusTFCwLhs5aZBQLol+T5AgLi1qX+CQLvtt08Au+24TwC77blPALvtuk8Au+27TwC77bxPALvtvU8Au+2+TwC77a9PALvtsE8Au623TwC77b5CALvtuXqBwLvtqGyBALvtq2VCALvtsmeCALvtrWoBgLvtrHDBgLvtr2mCgK09O2GAQK09PnOCwK09JWbCwK09IH9AgK09L3ED+lHy+2R55btfsdxFuIPalFiYrdY" />
+        
+
+        <script type="text/javascript" language="javascript">
+            function tratarError()
+            { 
+                return true;
+            }
+            window.onerror = tratarError;
+            
+            var prm = Sys.WebForms.PageRequestManager.getInstance();
+            prm.add_initializeRequest(InitializeRequest);
+            prm.add_endRequest(EndRequest);
+        </script>
+
+        <div class="centrarWeb">
+            <table cellpadding="0" cellspacing="0" border="0" width="99%">
+                <tr>
+                    <td colspan="5">
+                        <table cellpadding="0" cellspacing="0" border="0" style="height: 119px; width: 100%">
+                            <tr>
+                                <td style="width: 347px">
+                                    <table id="ctl00_tblTopIzquierdo" cellpadding="0" cellspacing="0" border="0" class="top_izq">
+	<tr>
+		<td colspan="2" onclick="javascript:window.open('default.aspx', '_self')" style="cursor:hand">
+                                                 <a id="ctl00_linkHome" onclick="window.navigate('');"></a><br />
+                                                </td>
+	</tr>
+	<tr>
+		<td colspan="2" onclick="javascript:window.open('default.aspx', '_self');" style="cursor:hand">
+                                                <br />
+                                                </td>
+	</tr>
+	<tr valign="middle">
+		<td style=" width:105px"></td>
+		<td align="left"><a id="ctl00_hypMercadoRegistrado" class="txt16_grande_blanco" href="../../Documentos/Inscripcion%20Merval%20Res%2017501.pdf" target="_blank">Mercado Registrado bajo el N° 16 de CNV</a></td>
+	</tr>
+</table>
+
+
+                                </td>
+                                <td>
+                                    <table id="ctl00_tblTopCentral" class="top_center" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+		<td align="right">
+                                                <table style="height: 119px" cellpadding="0" cellspacing="0" border="0">
+                                                    <tr valign="top">
+                                                        <td>
+                                                            <table cellpadding="0" cellspacing="0" border="0" width="100%">
+                                                                <tr style="height: 25px; white-space: nowrap;">
+                                                                    <td class="bordeIzquierdoBH">
+                                                                        &nbsp;
+                                                                    </td>
+                                                                    <td class="rellenoCeldaBH">
+                                                                        &nbsp;<a id="ctl00_hypInicio" class="txt16_grande_blanco" href="../../default.aspx">Inicio</a>&nbsp;
+                                                                    </td>
+                                                                    <td class="separadorBH">
+                                                                        &nbsp;
+                                                                    </td>
+                                                                    <td class="rellenoCeldaBH">
+                                                                        &nbsp;<a id="ctl00_hypContactoBarraH" class="txt16_grande_blanco" href="../Varios/Contacto.aspx">Contacto</a>&nbsp;
+                                                                    </td>
+                                                                    <td class="separadorBH">
+                                                                        &nbsp;
+                                                                    </td>
+                                                                    <td class="rellenoCeldaBH">
+                                                                        &nbsp;<a id="ctl00_hypSitiosInteres" class="txt16_grande_blanco" href="../../htm/mv_sitios_de_interes.aspx">Sitios de Interés</a>&nbsp;
+                                                                    </td>
+                                                                    <td class="separadorBH">
+                                                                        &nbsp;
+                                                                    </td>
+                                                                    <td class="rellenoCeldaBH">
+                                                                        &nbsp;<a id="ctl00_hypFAQs" class="txt16_grande_blanco" href="../../htm/mv_preguntas_frecuentes.aspx">Preguntas Frecuentes</a>&nbsp;
+                                                                    </td>
+                                                                    <td class="separadorBH">
+                                                                        &nbsp;
+                                                                    </td>
+                                                                    <td class="rellenoCeldaBH">
+                                                                        &nbsp;<a id="ctl00_hypDescargas" class="txt16_grande_blanco" href="../Varios/Descargas.aspx">SICOLP</a>&nbsp;
+                                                                    </td>
+                                                                    <td class="separadorBH">
+                                                                        &nbsp;
+                                                                    </td>
+                                                                    <td class="rellenoCeldaBH">
+                                                                        &nbsp;<a id="ctl00_hypMapaSitio" class="txt16_grande_blanco" href="../../htm/mv_mapa_sitio.aspx">Mapa del Sitio</a>&nbsp;
+                                                                    </td>
+                                                                    <td class="bordeDerechoBH">
+                                                                        &nbsp;
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+                                                        </td>
+                                                        <td align="right" valign="middle">
+                                                            <table border="0" cellpadding="0" cellspacing="0">
+                                                                <tr>
+                                                                    <td>
+                                                                        &nbsp;&nbsp;&nbsp;
+                                                                    </td>
+                                                                    <td>
+                                                                        <input type="image" name="ctl00$imgIdioma" id="ctl00_imgIdioma" src="../../imagenes/mv_bandera_ing.png" border="0" /></td>
+                                                                    <td>
+                                                                        &nbsp;
+                                                                    </td>
+                                                                    <td>
+                                                                        <a id="ctl00_lnkButtonIdioma" class="txt16_grande_blanco" href="javascript:__doPostBack('ctl00$lnkButtonIdioma','')">English</a></td>
+                                                                </tr>
+                                                            </table>
+                                                        </td>
+                                                        <td>
+                                                            &nbsp;&nbsp;&nbsp;&nbsp;
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td colspan="7">
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td colspan="7">
+                                                            &nbsp;</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td colspan="3" align="left" valign="bottom">
+                                                            <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                                                                <tr>
+                                                                    <td align="left">
+                                                                        <table id="ctl00_tableBuscador" border="0" cellpadding="0" cellspacing="0" class="fondo_buscador">
+			<tr>
+				<td valign="bottom" align="Center" width="142px">
+                                                                                    <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                                                                                        <tr>
+                                                                                            <td valign="bottom" align="Left">
+                                                                                                &nbsp;&nbsp;
+                                                                                                <span id="ctl00_lblBuscador" class="txt15">BUSCADOR</span>
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                        <tr>
+                                                                                            <td align="center" valign="top">
+                                                                                                <table border="0" cellpadding="0" cellspacing="3">
+                                                                                                    <tr>
+                                                                                                        <td align="right">
+                                                                                                            <input name="ctl00$txtBuscador" type="text" id="ctl00_txtBuscador" />&nbsp;
+                                                                                                        </td>
+                                                                                                        <td align="left">
+                                                                                                            <div class="btnBuscar" onclick="Buscar();" style="width: 15px; height: 15px">
+                                                                                                            </div>
+                                                                                                        </td>
+                                                                                                    </tr>
+                                                                                                </table>
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                    </table>
+                                                                                </td>
+			</tr>
+		</table>
+		
+                                                                    </td>
+                                                                    <td>
+                                                                        &nbsp;
+                                                                    </td>
+                                                                    <td align="right">
+                                                                        <table>
+                                                                            <tr>
+                                                                                <td style="font-size: 12px; color: White; font-family: Arial">
+                                                                                    <span id="ctl00_lblSiganos">SIGANOS EN</span>
+                                                                                </td>
+                                                                                <td>
+                                                                                    &nbsp;</td>
+                                                                                <td>
+                                                                                    <a href="https://twitter.com/merval" target="_blank">
+                                                                                        <img src="../../imagenes/logo_tw.png" height="24px" width="24px"
+                                                                                            style="border: 0" /></a>&nbsp;
+                                                                                </td>
+                                                                                <td>
+                                                                                    <a href="http://www.linkedin.com/company/mercado-de-valores-de-buenos-aires-s.a.?trk=hb_tab_compy_id_701635"
+                                                                                        target="_blank">
+                                                                                        <img src="../../imagenes/logo_in.png" height="24px" width="25px"
+                                                                                            style="border: 0" /></a>
+                                                                                </td>
+                                                                                <td>
+                                                                                    <a href="https://plus.google.com/u/0/b/101838573470730396192/101838573470730396192/posts#101838573470730396192/posts"
+                                                                                        target="_blank">
+                                                                                        <img src="../../imagenes/logo_gplus.png" height="24px" width="24px"
+                                                                                            style="border: 0" /></a>&nbsp;
+                                                                                </td>
+                                                                                <td>
+                                                                                    <a href="http://www.facebook.com/pages/Merval-Mercado-de-Valores-de-Buenos-Aires-SA#!/pages/Merval-Mercado-de-Valores-de-Buenos-Aires-SA/318243048293219"
+                                                                                        target="_blank">
+                                                                                        <img src="../../imagenes/logo_fb.png" height="24px" width="24px"
+                                                                                            style="border: 0" /></a>&nbsp;
+                                                                                </td>
+                                                                                <td>
+                                                                                    <a href="http://www.youtube.com/user/MERVALargentina?feature=mhee" target="_blank">
+                                                                                        <img src="../../imagenes/logo_ytube.png" height="24px" width="24px"
+                                                                                            style="border: 0" /></a>
+                                                                                </td>
+                                                                            </tr>
+                                                                        </table>
+                                                                    </td>
+                                                                    <td>
+                                                                        &nbsp;
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+                                                        </td>
+                                                        <td colspan="3" align="right" valign="bottom">
+                                                            
+                                                            
+                                                        </td>
+                                                        <td>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+	</tr>
+</table>
+
+                                </td>
+                                <td style="width: 6px">
+                                    <table id="ctl00_tblTopDerecho" cellpadding="0" cellspacing="0" border="0" class="top_der">
+	<tr>
+		<td>
+                                                &nbsp;<!-- ACA NO VA NADA -->
+                                            </td>
+	</tr>
+</table>
+
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="5" align="center">
+                        <table cellpadding="0" cellspacing="0" border="0" width="99%">
+                            <tr style="height: 20px">
+                                <td>
+                                    <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                                        <tr valign="middle">
+                                            <td align="left">
+                                                <div style="white-space: nowrap">
+                                                    
+                                                    <img id="ctl00_imgSemaforoEstadoMercado" src="../../imagenes/campana_roja.png" border="0" style="vertical-align: middle" />
+                                                    &nbsp;
+                                                    <span id="ctl00_lblEstadoMercado" class="txtEstadoMercado">MERCADO: CERRADO</span>
+                                                </div>
+                                            </td>
+                                            <td style="width: 5px">
+                                                &nbsp;
+                                            </td>
+                                            <td align="center" width="600px">
+                                                <!-- TICKER  -->
+                                                <table id="ctl00_tbTicker" width="100%" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+		<td>
+                                                            <div class="cssTickerContainer">
+                                                                <div id="divTicker" onmouseover="ticker.tickerStop()" onmouseout="ticker.tickerStart()">
+                                                                </div>
+                                                            </div>
+                                                        </td>
+	</tr>
+</table>
+
+                                            </td>
+                                            <td style="width: 5px">
+                                                &nbsp;
+                                            </td>
+                                            <td align="right">
+                                                <div style="white-space: nowrap">
+                                                    <span id="ctl00_lblHoraAMostrar" class="txtEstadoMercado">HORA BUENOS AIRES: 22:32 - SU HORA: 22:32</span>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                                <td height="10px" align="right" valign="top">
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    &nbsp;
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="left" valign="Top" rowspan="1" height="732px" width="139px" nowrap>
+                        <!-- Aca va el Menu ---------------------------------------------->
+                        <embed name="fcMenu" src="../../swf/menu_xml_final.swf" quality="High" play="False" menu="False" scale="Showall" loop="False" type="application/x-shockwave-flash" salign="t" width="139px" height="732px" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="path=http://www.merval.sba.com.ar/&menuActivo=menu.xml&menuIngles=xml/&">
+</embed>
+                    </td>
+                    <td>
+                        &nbsp;
+                    </td>
+                    <td id="ctl00_colContentCentral" rowspan="2" valign="top" width="850">
+                        <!-- Aca va el contenido de la pagina ---------------------------------------------->
+                        
+    <table border="0" cellpadding="0" cellspacing="0" align="center" width="99%">
+        <tr>
+            <td>
+                
+<style type="text/css">
+.membreteCentro
+{
+	background-image: url(/imagenes/mv_cont_center.jpg);
+	background-repeat: repeat-x;
+	width: 100%;
+	height: 89px;
+	display: inline-block;
+}
+</style>
+<table width="100%" style="height: 89px" cellpadding="0" cellspacing="0" border="0">
+    <tr>
+        <td align="right" style="width: 5px">
+            <img src="../../imagenes/mv_cont_borde_izq.jpg" style="border: 0" />
+        </td>
+        <td valign="top">
+            <table border="0" cellpadding="0" cellspacing="0" class="membreteCentro">
+                <tr style="height: 89px">
+                    <td style="width: 10px">
+                        &nbsp;
+                    </td>
+                    <td valign="middle">
+                        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                            <tr valign="bottom">
+                                <td align="left">
+                                    <span id="ctl00_ContentCentral_Membrete1_lblTitulo" class="txt05" Text="Titulo">COTIZACIONES / Acciones</span>
+                                </td>
+                            </tr>
+                            <tr id="ctl00_ContentCentral_Membrete1_trUbicacion" valign="top">
+	<td align="left">
+                                    <span id="ctl00_ContentCentral_Membrete1_lblUbicacion" class="txt06" Text="Ubicacion">cotizaciones / acciones</span>
+                                </td>
+</tr>
+
+                        </table>
+                    </td>
+                    <td>
+                        &nbsp;&nbsp;
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td align="left" style="width: 5px">
+            <img src="../../imagenes/mv_cont_borde_der.jpg" style="border: 0" />
+        </td>
+    </tr>
+</table>
+
+            </td>
+        </tr>
+    </table>
+    <table class="tablaContenido" border="0" cellpadding="0" cellspacing="0" align="center">
+        <tr>
+            <td>
+                &nbsp;
+            </td>
+        </tr>
+        <tr>
+            <td class="lineaAzul">
+            </td>
+        </tr>
+        <tr>
+            <td style="font-size: 10px">
+                &nbsp;</td>
+        </tr>
+        <tr>
+            <td>
+                <table>
+                    <tr>
+                        <td width="9">
+                            &nbsp;</td>
+                        <td style="text-align: justify;">
+                            <span id="ctl00_ContentCentral_lblTextoComun" class="txt01">Representan los aportes de capital de los accionistas a la sociedad emisora. Confieren a su titular la condición de socio, con todos los derechos correspondientes a la clase (ordinarias de voto singular o múltiple, y preferidas).<br></span>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td style="font-size: 10px">
+                &nbsp;</td>
+        </tr>
+        <tr>
+            <td class="lineaAzul">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                &nbsp;</td>
+        </tr>
+        <tr>
+            <td valign="middle">
+                <span id="ctl00_ContentCentral_timerCotizaciones" style="display:none;"></span>
+                <div id="ctl00_ContentCentral_upPagina">
+	
+                        <div id="ctl00_ContentCentral_tcAcciones" class="CustomTabAccionesStyle">
+		<div id="ctl00_ContentCentral_tcAcciones_header">
+			<span id="__tab_ctl00_ContentCentral_tcAcciones_tpMerval">
+                                    <table width="100%">
+                                        <tr>
+                                            <td align="center">
+                                                <span>Panel Merval</span>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </span><span id="__tab_ctl00_ContentCentral_tcAcciones_tpGeneral">
+                                    <table width="100%">
+                                        <tr>
+                                            <td align="center">
+                                                <span>Panel General</span>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </span><span id="__tab_ctl00_ContentCentral_tcAcciones_tpMerval25">
+                                    <table width="100%">
+                                        <tr>
+                                            <td align="center">
+                                                <span>Panel Merval 25</span>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </span><span id="__tab_ctl00_ContentCentral_tcAcciones_tpMAR">
+                                    <table width="100%">
+                                        <tr>
+                                            <td align="center">
+                                                <span>Panel M. AR</span>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </span><span id="__tab_ctl00_ContentCentral_tcAcciones_tpPyme">
+                                    <table width="100%">
+                                        <tr>
+                                            <td align="center">
+                                                <span>Panel Pyme</span>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </span>
+		</div><div id="ctl00_ContentCentral_tcAcciones_body">
+			<div id="ctl00_ContentCentral_tcAcciones_tpMerval">
+				
+                                    <br />
+                                    <span id="ctl00_ContentCentral_tcAcciones_tpMerval_lblTextoSolapaMerval" class="txt01">El índice Merval es el índice más difundido del mercado local, pues es el indicador, ponderado por volumen, que generalmente difunden los medios televisivos, radiales y gráficos al término de cada rueda de operaciones. Fue creado por el Mercado de Valores de Buenos Aires S. A. el 30 de junio de 1986 y se publica diariamente. Se computa en tiempo real durante la jornada de transacciones una vez que se han iniciado las negociaciones. <br></span>
+                                    <br />
+                                    <p style="margin-left: 20px;">
+                                        <a id="ctl00_ContentCentral_tcAcciones_tpMerval_HyperLink4" class="link" href="Indices.aspx?Panel=0"><span id="ctl00_ContentCentral_tcAcciones_tpMerval_Label11" class="link">+ Ver información Índice Merval</span></a><br />
+                                        <br />
+                                    </p>
+                                    <table cellspacing="0" border="0" id="ctl00_ContentCentral_tcAcciones_tpMerval_grdMerval" width="100%">
+					<tr>
+						<td class="txtGrisTabla_ConBorde_ArribaYAbajo"><a href="javascript:__doPostBack('ctl00$ContentCentral$tcAcciones$tpMerval$grdMerval$ctl01$ctl00','')">Especie</a></td><td class="txtGrisTabla_ConBorde_ArribaYAbajo" align="right"><a href="javascript:__doPostBack('ctl00$ContentCentral$tcAcciones$tpMerval$grdMerval$ctl01$ctl01','')">Hora<br> Cotización</a></td><td class="txtGrisTabla_ConBorde_ArribaYAbajo" align="right"><a href="javascript:__doPostBack('ctl00$ContentCentral$tcAcciones$tpMerval$grdMerval$ctl01$ctl02','')">Cierre<br>Anterior</a></td><td class="txtGrisTabla_ConBorde_ArribaYAbajo" align="right"><a href="javascript:__doPostBack('ctl00$ContentCentral$tcAcciones$tpMerval$grdMerval$ctl01$ctl03','')">Precio<br>Apertura</a></td><td class="txtGrisTabla_ConBorde_ArribaYAbajo" align="right"><a href="javascript:__doPostBack('ctl00$ContentCentral$tcAcciones$tpMerval$grdMerval$ctl01$ctl04','')">Precio<br>Máximo</a></td><td class="txtGrisTabla_ConBorde_ArribaYAbajo" align="right"><a href="javascript:__doPostBack('ctl00$ContentCentral$tcAcciones$tpMerval$grdMerval$ctl01$ctl05','')">Precio<br>Mínimo</a></td><td class="txtGrisTabla_ConBorde_ArribaYAbajo" align="right"><a href="javascript:__doPostBack('ctl00$ContentCentral$tcAcciones$tpMerval$grdMerval$ctl01$ctl06','')">Último<br>Precio</a></td><td class="txtGrisTabla_ConBorde_ArribaYAbajo" align="right"><a href="javascript:__doPostBack('ctl00$ContentCentral$tcAcciones$tpMerval$grdMerval$ctl01$ctl07','')">Variación<br>Diaria</a></td><td class="txtGrisTabla_ConBorde_ArribaYAbajo" align="right"><a href="javascript:__doPostBack('ctl00$ContentCentral$tcAcciones$tpMerval$grdMerval$ctl01$ctl08','')">Volumen<br>Efectivo ($)</a></td><td class="txtGrisTabla_ConBorde_ArribaYAbajo" align="right"><a href="javascript:__doPostBack('ctl00$ContentCentral$tcAcciones$tpMerval$grdMerval$ctl01$ctl09','')">Volumen Nominal</a></td><td class="txtGrisTabla_ConBorde_ArribaYAbajo" align="right"><a href="javascript:__doPostBack('ctl00$ContentCentral$tcAcciones$tpMerval$grdMerval$ctl01$ctl10','')">Precio Prom. Pond.</a></td>
+					</tr><tr onMouseOver="this.className='filaSel'" onMouseOut="this.className='filaNoSel'">
+						<td class="txtGrisTabla_ConBorde" width="5%"><a class="link" href="javascript:__doPostBack('ctl00$ContentCentral$tcAcciones$tpMerval$grdMerval$ctl02$ctl00','')">ALUA</a></td><td class="txtGrisTabla_ConBorde" align="right" width="8%">16:59:43</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">9,830</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">9,950</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">9,950</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">9,530</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">9,580</td><td class="txtRojoTabla_ConBorde" align="right" width="8%">-2,54 %</td><td class="txtGrisTabla_ConBorde" align="right" width="10%">12.584.501</td><td class="txtGrisTabla_ConBorde" align="right" width="10%">1.299.514</td><td class="txtGrisTabla_ConBorde" align="right" width="10%">9,684</td>
+					</tr><tr onMouseOver="this.className='filaSel'" onMouseOut="this.className='filaNoSel'">
+						<td class="txtGrisTabla_ConBorde" width="5%"><a class="link" href="javascript:__doPostBack('ctl00$ContentCentral$tcAcciones$tpMerval$grdMerval$ctl03$ctl00','')">APBR</a></td><td class="txtGrisTabla_ConBorde" align="right" width="8%">17:00:35</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">110,800</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">106,900</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">109,000</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">105,500</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">108,000</td><td class="txtRojoTabla_ConBorde" align="right" width="8%">-2,53 %</td><td class="txtGrisTabla_ConBorde" align="right" width="10%">53.665.061</td><td class="txtGrisTabla_ConBorde" align="right" width="10%">499.802</td><td class="txtGrisTabla_ConBorde" align="right" width="10%">107,373</td>
+					</tr><tr onMouseOver="this.className='filaSel'" onMouseOut="this.className='filaNoSel'">
+						<td class="txtGrisTabla_ConBorde" width="5%"><a class="link" href="javascript:__doPostBack('ctl00$ContentCentral$tcAcciones$tpMerval$grdMerval$ctl04$ctl00','')">BMA</a></td><td class="txtGrisTabla_ConBorde" align="right" width="8%">16:59:53</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">59,700</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">58,500</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">60,500</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">56,500</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">56,500</td><td class="txtRojoTabla_ConBorde" align="right" width="8%">-5,36 %</td><td class="txtGrisTabla_ConBorde" align="right" width="10%">6.768.329</td><td class="txtGrisTabla_ConBorde" align="right" width="10%">113.956</td><td class="txtGrisTabla_ConBorde" align="right" width="10%">59,394</td>
+					</tr><tr onMouseOver="this.className='filaSel'" onMouseOut="this.className='filaNoSel'">
+						<td class="txtGrisTabla_ConBorde" width="5%"><a class="link" href="javascript:__doPostBack('ctl00$ContentCentral$tcAcciones$tpMerval$grdMerval$ctl05$ctl00','')">COME</a></td><td class="txtGrisTabla_ConBorde" align="right" width="8%">17:01:31</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">2,040</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">2,000</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">2,040</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">1,950</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">1,970</td><td class="txtRojoTabla_ConBorde" align="right" width="8%">-3,43 %</td><td class="txtGrisTabla_ConBorde" align="right" width="10%">11.352.666</td><td class="txtGrisTabla_ConBorde" align="right" width="10%">5.738.010</td><td class="txtGrisTabla_ConBorde" align="right" width="10%">1,979</td>
+					</tr><tr onMouseOver="this.className='filaSel'" onMouseOut="this.className='filaNoSel'">
+						<td class="txtGrisTabla_ConBorde" width="5%"><a class="link" href="javascript:__doPostBack('ctl00$ContentCentral$tcAcciones$tpMerval$grdMerval$ctl06$ctl00','')">EDN</a></td><td class="txtGrisTabla_ConBorde" align="right" width="8%">17:00:20</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">8,030</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">7,950</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">8,610</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">7,700</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">8,500</td><td class="txtVerdeTabla_ConBorde" align="right" width="8%">+5,85 %</td><td class="txtGrisTabla_ConBorde" align="right" width="10%">17.422.102</td><td class="txtGrisTabla_ConBorde" align="right" width="10%">2.121.216</td><td class="txtGrisTabla_ConBorde" align="right" width="10%">8,213</td>
+					</tr><tr onMouseOver="this.className='filaSel'" onMouseOut="this.className='filaNoSel'">
+						<td class="txtGrisTabla_ConBorde" width="5%"><a class="link" href="javascript:__doPostBack('ctl00$ContentCentral$tcAcciones$tpMerval$grdMerval$ctl07$ctl00','')">ERAR</a></td><td class="txtGrisTabla_ConBorde" align="right" width="8%">17:00:08</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">7,300</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">7,300</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">7,330</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">7,080</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">7,140</td><td class="txtRojoTabla_ConBorde" align="right" width="8%">-2,19 %</td><td class="txtGrisTabla_ConBorde" align="right" width="10%">29.858.595</td><td class="txtGrisTabla_ConBorde" align="right" width="10%">4.145.068</td><td class="txtGrisTabla_ConBorde" align="right" width="10%">7,203</td>
+					</tr><tr onMouseOver="this.className='filaSel'" onMouseOut="this.className='filaNoSel'">
+						<td class="txtGrisTabla_ConBorde" width="5%"><a class="link" href="javascript:__doPostBack('ctl00$ContentCentral$tcAcciones$tpMerval$grdMerval$ctl08$ctl00','')">FRAN</a></td><td class="txtGrisTabla_ConBorde" align="right" width="8%">16:56:54</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">64,000</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">63,200</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">65,000</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">62,500</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">63,800</td><td class="txtRojoTabla_ConBorde" align="right" width="8%">-0,31 %</td><td class="txtGrisTabla_ConBorde" align="right" width="10%">2.670.087</td><td class="txtGrisTabla_ConBorde" align="right" width="10%">41.726</td><td class="txtGrisTabla_ConBorde" align="right" width="10%">63,991</td>
+					</tr><tr onMouseOver="this.className='filaSel'" onMouseOut="this.className='filaNoSel'">
+						<td class="txtGrisTabla_ConBorde" width="5%"><a class="link" href="javascript:__doPostBack('ctl00$ContentCentral$tcAcciones$tpMerval$grdMerval$ctl09$ctl00','')">GGAL</a></td><td class="txtGrisTabla_ConBorde" align="right" width="8%">17:01:17</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">21,250</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">21,150</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">21,300</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">20,700</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">21,000</td><td class="txtRojoTabla_ConBorde" align="right" width="8%">-1,18 %</td><td class="txtGrisTabla_ConBorde" align="right" width="10%">26.057.362</td><td class="txtGrisTabla_ConBorde" align="right" width="10%">1.238.210</td><td class="txtGrisTabla_ConBorde" align="right" width="10%">21,044</td>
+					</tr><tr onMouseOver="this.className='filaSel'" onMouseOut="this.className='filaNoSel'">
+						<td class="txtGrisTabla_ConBorde" width="5%"><a class="link" href="javascript:__doPostBack('ctl00$ContentCentral$tcAcciones$tpMerval$grdMerval$ctl10$ctl00','')">PAMP</a></td><td class="txtGrisTabla_ConBorde" align="right" width="8%">16:59:21</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">6,500</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">6,500</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">6,500</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">6,250</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">6,410</td><td class="txtRojoTabla_ConBorde" align="right" width="8%">-1,38 %</td><td class="txtGrisTabla_ConBorde" align="right" width="10%">11.235.855</td><td class="txtGrisTabla_ConBorde" align="right" width="10%">1.753.478</td><td class="txtGrisTabla_ConBorde" align="right" width="10%">6,408</td>
+					</tr><tr onMouseOver="this.className='filaSel'" onMouseOut="this.className='filaNoSel'">
+						<td class="txtGrisTabla_ConBorde" width="5%"><a class="link" href="javascript:__doPostBack('ctl00$ContentCentral$tcAcciones$tpMerval$grdMerval$ctl11$ctl00','')">PESA</a></td><td class="txtGrisTabla_ConBorde" align="right" width="8%">16:54:06</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">9,930</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">9,900</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">9,900</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">9,700</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">9,790</td><td class="txtRojoTabla_ConBorde" align="right" width="8%">-1,41 %</td><td class="txtGrisTabla_ConBorde" align="right" width="10%">2.297.688</td><td class="txtGrisTabla_ConBorde" align="right" width="10%">234.893</td><td class="txtGrisTabla_ConBorde" align="right" width="10%">9,782</td>
+					</tr><tr onMouseOver="this.className='filaSel'" onMouseOut="this.className='filaNoSel'">
+						<td class="txtGrisTabla_ConBorde" width="5%"><a class="link" href="javascript:__doPostBack('ctl00$ContentCentral$tcAcciones$tpMerval$grdMerval$ctl12$ctl00','')">TECO2</a></td><td class="txtGrisTabla_ConBorde" align="right" width="8%">16:58:59</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">60,650</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">59,900</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">61,400</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">59,000</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">60,500</td><td class="txtRojoTabla_ConBorde" align="right" width="8%">-0,25 %</td><td class="txtGrisTabla_ConBorde" align="right" width="10%">7.355.332</td><td class="txtGrisTabla_ConBorde" align="right" width="10%">123.846</td><td class="txtGrisTabla_ConBorde" align="right" width="10%">59,391</td>
+					</tr><tr onMouseOver="this.className='filaSel'" onMouseOut="this.className='filaNoSel'">
+						<td class="txtGrisTabla_ConBorde" width="5%"><a class="link" href="javascript:__doPostBack('ctl00$ContentCentral$tcAcciones$tpMerval$grdMerval$ctl13$ctl00','')">TS</a></td><td class="txtGrisTabla_ConBorde" align="right" width="8%">16:59:14</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">338,500</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">335,000</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">347,000</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">335,000</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">346,100</td><td class="txtVerdeTabla_ConBorde" align="right" width="8%">+2,25 %</td><td class="txtGrisTabla_ConBorde" align="right" width="10%">23.241.642</td><td class="txtGrisTabla_ConBorde" align="right" width="10%">68.025</td><td class="txtGrisTabla_ConBorde" align="right" width="10%">341,663</td>
+					</tr><tr onMouseOver="this.className='filaSel'" onMouseOut="this.className='filaNoSel'">
+						<td class="txtGrisTabla_ConBorde" width="5%"><a class="link" href="javascript:__doPostBack('ctl00$ContentCentral$tcAcciones$tpMerval$grdMerval$ctl14$ctl00','')">YPFD</a></td><td class="txtGrisTabla_ConBorde" align="right" width="8%">16:59:58</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">551,000</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">551,000</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">561,000</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">548,000</td><td class="txtGrisTabla_ConBorde" align="right" width="8%">558,000</td><td class="txtVerdeTabla_ConBorde" align="right" width="8%">+1,27 %</td><td class="txtGrisTabla_ConBorde" align="right" width="10%">59.112.476</td><td class="txtGrisTabla_ConBorde" align="right" width="10%">106.101</td><td class="txtGrisTabla_ConBorde" align="right" width="10%">557,134</td>
+					</tr>
+				</table>
+                                    <br />
+                                    <center>
+                                        <span id="ctl00_ContentCentral_tcAcciones_tpMerval_lblTextoDemoratpMerval" class="txtPanelLeyenda">Plazo 72 hs. - DATOS SIN DEMORA</span>
+                                    </center>
+                                    </p>
+                                
+			</div><div id="ctl00_ContentCentral_tcAcciones_tpGeneral" style="display:none;">
+				
+                                    <br />
+                                    <span id="ctl00_ContentCentral_tcAcciones_tpGeneral_lblTextoSolapaGeneral" class="txt01">El nuevo índice General de la Bolsa de Comercio de Buenos Aires es una cartera ponderada por capitalización bursátil del conjunto de sociedades cotizantes que han negociado como mínimo el 20% de las ruedas de los últimos seis meses. <br></span>
+                                    <br />
+                                    <p style="margin-left: 20px;">
+                                        <a id="ctl00_ContentCentral_tcAcciones_tpGeneral_HyperLink1" class="link" href="Indices.aspx?Panel=4"><span id="ctl00_ContentCentral_tcAcciones_tpGeneral_Label12" class="link">+ Ver información Índice General BCBA</span></a><br />
+                                        <br />
+                                    </p>
+                                    
+                                    <br />
+                                    <center>
+                                        <span id="ctl00_ContentCentral_tcAcciones_tpGeneral_lblTextoDemoratpGeneral" class="txtPanelLeyenda"></span>
+                                    </center>
+                                
+			</div><div id="ctl00_ContentCentral_tcAcciones_tpMerval25" style="display:none;">
+				
+                                    <br />
+                                    <span id="ctl00_ContentCentral_tcAcciones_tpMerval25_lblTextoSolapaMerval25" class="txt01">El Mercado de Valores de Buenos Aires S. A. ha desarrollado un nuevo índice, con un número fijo de especies, cuyas características buscan reflejar el comportamiento de las 25 acciones más operadas.
+La fecha de origen del Índice Merval 25 es el 1° de enero de 2003, tomando como base el valor de cierre del Índice Merval al 31 de diciembre de 2002: $ 524.95.<br></span>
+                                    <br />
+                                    <p style="margin-left: 20px;">
+                                        <a id="ctl00_ContentCentral_tcAcciones_tpMerval25_HyperLink2" class="link" href="Indices.aspx?Panel=2"><span id="ctl00_ContentCentral_tcAcciones_tpMerval25_Label13" class="link">+ Ver información Índice Merval 25</span></a><br />
+                                        <br />
+                                    </p>
+                                    
+                                    <br />
+                                    <center>
+                                        <span id="ctl00_ContentCentral_tcAcciones_tpMerval25_lblTextoDemoratpMerval25" class="txtPanelLeyenda"></span>
+                                    </center>
+                                
+			</div><div id="ctl00_ContentCentral_tcAcciones_tpMAR" style="display:none;">
+				
+                                    <br />
+                                    <span id="ctl00_ContentCentral_tcAcciones_tpMAR_lblTextoSolapaMAR" class="txt01">El índice Merval Argentina (M.AR) fue desarrollado por el Mercado de Valores de Buenos Aires S. A. con el objeto de reflejar el comportamiento de las empresas argentinas que cotizan en la Bolsa de Comercio de Buenos Aires.
+Está basado en la metodología del Índice Merval y se introducen modificaciones que tienen por objeto transformarlo en un indicador que mide la evolución de las empresas locales.
+La fecha de origen del Índice Merval Argentina es el 1° de enero de 2000, tomando como base el valor al cierre del Índice Merval al 30 de diciembre de 1999: $550.47.<br></span>
+                                    <br />
+                                    <p style="margin-left: 20px;">
+                                        <a id="ctl00_ContentCentral_tcAcciones_tpMAR_HyperLink3" class="link" href="Indices.aspx?Panel=1"><span id="ctl00_ContentCentral_tcAcciones_tpMAR_Label14" class="link">+ Ver información Índice M.AR</span></a><br />
+                                        <br />
+                                    </p>
+                                    
+                                    <br />
+                                    <center>
+                                        <span id="ctl00_ContentCentral_tcAcciones_tpMAR_lblTextoDemoratpMAR" class="txtPanelLeyenda"></span>
+                                    </center>
+                                
+			</div><div id="ctl00_ContentCentral_tcAcciones_tpPyme" style="display:none;">
+				
+                                    <br />
+                                    <span id="ctl00_ContentCentral_tcAcciones_tpPyme_lblTextoSolapaPymes" class="txt01">Está compuesto por las acciones de pequeñas y medianas empresas, que se admiten a la cotización bajo un régimen simplificado.</span>
+                                    <br />
+                                    <br />
+                                    
+                                    <br />
+                                    <center>
+                                        <span id="ctl00_ContentCentral_tcAcciones_tpPyme_lblTextoDemoratpPyme" class="txtPanelLeyenda"></span>
+                                    </center>
+                                
+			</div>
+		</div>
+	</div>
+                    
+</div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                &nbsp;
+            </td>
+        </tr>
+    </table>
+
+                    </td>
+
+                    <td>
+                        &nbsp;
+                    </td>
+                    <td align="left" valign="Top" rowspan="2">
+                        <!-- Aca van los paneles ---------------------------------------------->
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    </td>
+                </tr>
+                <tr valign="top">
+                    <td colspan="5">
+                        <table width="100%" border="0" cellpadding="0" height="90px" cellspacing="0" class="footerDegrade1">
+                            <tr align="Left" height="20px">
+                                <td width="139px">
+                                    &nbsp;&nbsp;&nbsp;
+                                </td>
+                                <td>
+                                    <span id="ctl00_lblCopyRight" class="textoFooter">®2007 Merval All Rights Reserved</span>
+                                    &nbsp;&nbsp;&nbsp;
+                                    <span id="ctl00_lblSeparador4" class="textoFooter">|</span>
+                                    &nbsp;&nbsp;&nbsp;
+                                    <a id="ctl00_hypTerminos" class="textoFooter" href="../../htm/mv_terminos.aspx">Términos y Condiciones de Uso</a>
+                                    &nbsp;&nbsp;&nbsp;
+                                    <span id="ctl00_lblSeparador5" class="textoFooter">|</span>
+                                    &nbsp;&nbsp;&nbsp;
+                                    <a id="ctl00_hypMapa" class="textoFooter" href="../../htm/mv_mapa_sitio.aspx">Mapa del Sitio</a>
+                                    &nbsp;&nbsp;&nbsp;
+                                    <span id="ctl00_lblSeparador6" class="textoFooter">|</span>
+                                    &nbsp;&nbsp;&nbsp;
+                                    <a id="ctl00_hypContacto" class="textoFooter" href="../Varios/Contacto.aspx">Contacto</a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td width="139px">
+                                </td>
+                                <td valign="top">
+                                    <span id="ctl00_lblLeyendaOptimizacion" class="textoFooter">Esta web está optimizada para © Google Chrome</span>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+            <span id="ctl00_timerMain" style="display:none;"></span>
+        </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+var vErrorMsg= 'Ha ocurrido un error, por favor Contacte Soporte Tecnico.';var vErrorLevel= 0;var lblEstadoMercadoClientID= 'ctl00_lblEstadoMercado';var imgSemaforoEstadoMercadoClientID= 'ctl00_imgSemaforoEstadoMercado';var lblEstadoMercadoAbierto= 'MERCADO: ABIERTO';var lblEstadoMercadoCerrado= 'MERCADO: CERRADO';var strPathDirImg= '../../imagenes';var lblHoraID= 'ctl00_lblHoraAMostrar';var txbBuscadorID= 'ctl00_txtBuscador';//]]>
+</script>
+<script type='text/javascript' language='javascript'>
+									document.onkeydown = keyCatcher;
+									function keyCatcher() 
+									{
+										var strTagName = event.srcElement.tagName;
+										var strType = event.srcElement.type;
+										
+										if ( ( event.keyCode == 13 && strTagName != 'TEXTAREA' && strTagName != 'SELECT') 
+											|| ( event.keyCode == 8  && ! (strTagName == 'INPUT' && (strType == 'text' || strType == 'password')) && strTagName != 'TEXTAREA' )
+											)
+										{
+											event.cancelBubble = true;
+											event.returnValue = false;
+										}
+									}
+								</script><script language='JavaScript'>InitCtrls()</script><script type="text/javascript" language="javascript"> jQuery(document).ready(function() { $('#ctl00_PanelIndices1_tblHeaderMerval').click(function() { if($('#ctl00_PanelIndices1_tblHeaderMerval25graf').css('display') != 'none')    $('#ctl00_PanelIndices1_tblHeaderMerval25graf').hide(); if($('#ctl00_PanelIndices1_tblHeaderMargraf').css('display') != 'none') $('#ctl00_PanelIndices1_tblHeaderMargraf').hide(); if($('#ctl00_PanelIndices1_tblHeaderBurcapgraf').css('display') != 'none') $('#ctl00_PanelIndices1_tblHeaderBurcapgraf').hide();   if($('#ctl00_PanelIndices1_tblHeaderBolsarGgraf').css('display') != 'none') $('#ctl00_PanelIndices1_tblHeaderBolsarGgraf').hide();   var colapsed = ($('#ctl00_PanelIndices1_tblHeaderMervalgraf').css('display') != 'none'); $(this).next().toggle('blind');  PageMethods.setEstadoControlPanelIndice('ctl00_PanelIndices1_tblHeaderMervalgraf', colapsed);return false; }).next().hide(); });  jQuery(document).ready(function() { $('#ctl00_PanelIndices1_tblHeaderMerval25').click(function() { if($('#ctl00_PanelIndices1_tblHeaderMervalgraf').css('display') != 'none')    $('#ctl00_PanelIndices1_tblHeaderMervalgraf').hide(); if($('#ctl00_PanelIndices1_tblHeaderMargraf').css('display') != 'none') $('#ctl00_PanelIndices1_tblHeaderMargraf').hide(); if($('#ctl00_PanelIndices1_tblHeaderBurcapgraf').css('display') != 'none') $('#ctl00_PanelIndices1_tblHeaderBurcapgraf').hide();   if($('#ctl00_PanelIndices1_tblHeaderBolsarGgraf').css('display') != 'none') $('#ctl00_PanelIndices1_tblHeaderBolsarGgraf').hide();   var colapsed = ($('#ctl00_PanelIndices1_tblHeaderMerval25graf').css('display') != 'none'); $(this).next().toggle('blind');  PageMethods.setEstadoControlPanelIndice('ctl00_PanelIndices1_tblHeaderMerval25graf', colapsed);return false; }).next().hide(); });  jQuery(document).ready(function() { $('#ctl00_PanelIndices1_tblHeaderMar').click(function() { if($('#ctl00_PanelIndices1_tblHeaderMervalgraf').css('display') != 'none')    $('#ctl00_PanelIndices1_tblHeaderMervalgraf').hide(); if($('#ctl00_PanelIndices1_tblHeaderMerval25graf').css('display') != 'none')    $('#ctl00_PanelIndices1_tblHeaderMerval25graf').hide(); if($('#ctl00_PanelIndices1_tblHeaderBurcapgraf').css('display') != 'none')   $('#ctl00_PanelIndices1_tblHeaderBurcapgraf').hide();   if($('#ctl00_PanelIndices1_tblHeaderBolsarGgraf').css('display') != 'none')    $('#ctl00_PanelIndices1_tblHeaderBolsarGgraf').hide();  var colapsed = ($('#ctl00_PanelIndices1_tblHeaderMargraf').css('display') != 'none'); $(this).next().toggle('blind');  PageMethods.setEstadoControlPanelIndice('ctl00_PanelIndices1_tblHeaderMargraf', colapsed);return false; }).next().hide(); }); jQuery(document).ready(function() {     $('#ctl00_PanelIndices1_tblHeaderBurcap').click(function() { if($('#ctl00_PanelIndices1_tblHeaderMervalgraf').css('display') != 'none')    $('#ctl00_PanelIndices1_tblHeaderMervalgraf').hide(); if($('#ctl00_PanelIndices1_tblHeaderMerval25graf').css('display') != 'none') $('#ctl00_PanelIndices1_tblHeaderMerval25graf').hide(); if($('#ctl00_PanelIndices1_tblHeaderMargraf').css('display') != 'none') $('#ctl00_PanelIndices1_tblHeaderMargraf').hide(); if($('#ctl00_PanelIndices1_tblHeaderBolsarGgraf').css('display') != 'none') $('#ctl00_PanelIndices1_tblHeaderBolsarGgraf').hide(); var colapsed = ($('#ctl00_PanelIndices1_tblHeaderBurcapgraf').css('display') != 'none'); $(this).next().toggle('blind'); PageMethods.setEstadoControlPanelIndice('ctl00_PanelIndices1_tblHeaderBurcapgraf', colapsed);return false; }).next().hide(); }); jQuery(document).ready(function() { $('#ctl00_PanelIndices1_tblHeaderBolsarG').click(function() { if($('#ctl00_PanelIndices1_tblHeaderMervalgraf').css('display') != 'none')    $('#ctl00_PanelIndices1_tblHeaderMervalgraf').hide();     if($('#ctl00_PanelIndices1_tblHeaderMerval25graf').css('display') != 'none')      $('#ctl00_PanelIndices1_tblHeaderMerval25graf').hide(); if($('#ctl00_PanelIndices1_tblHeaderMargraf').css('display') != 'none')      $('#ctl00_PanelIndices1_tblHeaderMargraf').hide();  if($('#ctl00_PanelIndices1_tblHeaderBurcapgraf').css('display') != 'none')    $('#ctl00_PanelIndices1_tblHeaderBurcapgraf').hide();   var colapsed = ($('#ctl00_PanelIndices1_tblHeaderBolsarGgraf').css('display') != 'none'); $(this).next().toggle('blind'); PageMethods.setEstadoControlPanelIndice('ctl00_PanelIndices1_tblHeaderBolsarGgraf', colapsed);return false; }).next().hide(); }); </script>
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+Sys.Application.add_init(function() {
+    $create(Sys.UI._Timer, {"enabled":true,"interval":60000,"uniqueID":"ctl00$ContentCentral$timerCotizaciones"}, null, null, $get("ctl00_ContentCentral_timerCotizaciones"));
+});
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.TabPanel, {"headerTab":$get("__tab_ctl00_ContentCentral_tcAcciones_tpMerval"),"scrollBars":2}, null, {"owner":"ctl00_ContentCentral_tcAcciones"}, $get("ctl00_ContentCentral_tcAcciones_tpMerval"));
+});
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.TabPanel, {"headerTab":$get("__tab_ctl00_ContentCentral_tcAcciones_tpGeneral"),"scrollBars":2}, null, {"owner":"ctl00_ContentCentral_tcAcciones"}, $get("ctl00_ContentCentral_tcAcciones_tpGeneral"));
+});
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.TabPanel, {"headerTab":$get("__tab_ctl00_ContentCentral_tcAcciones_tpMerval25"),"scrollBars":2}, null, {"owner":"ctl00_ContentCentral_tcAcciones"}, $get("ctl00_ContentCentral_tcAcciones_tpMerval25"));
+});
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.TabPanel, {"headerTab":$get("__tab_ctl00_ContentCentral_tcAcciones_tpMAR"),"scrollBars":2}, null, {"owner":"ctl00_ContentCentral_tcAcciones"}, $get("ctl00_ContentCentral_tcAcciones_tpMAR"));
+});
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.TabPanel, {"headerTab":$get("__tab_ctl00_ContentCentral_tcAcciones_tpPyme"),"scrollBars":2}, null, {"owner":"ctl00_ContentCentral_tcAcciones"}, $get("ctl00_ContentCentral_tcAcciones_tpPyme"));
+});
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.TabContainer, {"activeTabIndex":0,"autoPostBackId":"ctl00$ContentCentral$tcAcciones","clientStateField":$get("ctl00_ContentCentral_tcAcciones_ClientState")}, null, null, $get("ctl00_ContentCentral_tcAcciones"));
+});
+Sys.Application.add_init(function() {
+    $create(Sys.UI._Timer, {"enabled":false,"interval":60000,"uniqueID":"ctl00$timerMain"}, null, null, $get("ctl00_timerMain"));
+});
+//]]>
+</script>
+</form>
+</body>
+</html>
